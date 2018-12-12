@@ -1,0 +1,291 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,YEAR.id,ESTAB,EMP,PAYQTR1,PAYANN
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Year,Number of establishments,Paid employees for pay period including March 12 (number),"First-quarter payroll ($1,000)","Annual payroll ($1,000)"
+0100000US,,United States,1131,Timber tract operations,2016,480,4181,53775,216893
+0100000US,,United States,1132,Forest nurseries and gathering of forest products,2016,183,1357,11639,47568
+0100000US,,United States,1133,Logging,2016,8076,50188,523391,2190962
+0100000US,,United States,1141,Fishing,2016,2449,5461,65004,347059
+0100000US,,United States,1142,Hunting and trapping,2016,358,1650,12469,54060
+0100000US,,United States,1151,Support activities for crop production,2016,4848,66007,538269,2575604
+0100000US,,United States,1152,Support activities for animal production,2016,4488,19885,158349,673868
+0100000US,,United States,1153,Support activities for forestry,2016,1712,11682,110287,492498
+0100000US,,United States,2111,Oil and gas extraction,2016,7330,122140,4852906,15295715
+0100000US,,United States,2121,Coal mining,2016,800,55008,1072877,4076457
+0100000US,,United States,2122,Metal ore mining,2016,331,37863,876998,3187622
+0100000US,,United States,2123,Nonmetallic mineral mining and quarrying,2016,5073,81029,1115962,4993643
+0100000US,,United States,2131,Support activities for mining,2016,13700,290977,5999050,21844271
+0100000US,,United States,2211,"Electric power generation, transmission and distribution",2016,10802,507431,16544310,54667991
+0100000US,,United States,2212,Natural gas distribution,2016,2578,88366,2311519,8087513
+0100000US,,United States,2213,"Water, sewage and other systems",2016,4779,43120,700512,2647394
+0100000US,,United States,2361,Residential building construction,2016,168202,664259,7727676,34415684
+0100000US,,United States,2362,Nonresidential building construction,2016,42267,649276,10545381,46496552
+0100000US,,United States,2371,Utility system construction,2016,19315,551870,8489988,38306779
+0100000US,,United States,2372,Land subdivision,2016,5063,25557,427494,1830086
+0100000US,,United States,2373,"Highway, street, and bridge construction",2016,9760,275012,3903589,21284183
+0100000US,,United States,2379,Other heavy and civil engineering construction,2016,4339,89154,1418648,6086599
+0100000US,,United States,2381,"Foundation, structure, and building exterior contractors",2016,90244,812186,8565266,41420556
+0100000US,,United States,2382,Building equipment contractors,2016,178345,1917425,25702002,113798503
+0100000US,,United States,2383,Building finishing contractors,2016,111822,751977,7635734,35302157
+0100000US,,United States,2389,Other specialty trade contractors,2016,67376,574548,6362672,32314984
+0100000US,,United States,3111,Animal food manufacturing,2016,1769,53217,700317,2829608
+0100000US,,United States,3112,Grain and oilseed milling,2016,865,55745,811674,3430270
+0100000US,,United States,3113,Sugar and confectionery product manufacturing,2016,1940,79263,868084,3676869
+0100000US,,United States,3114,Fruit and vegetable preserving and specialty food manufacturing,2016,1874,156270,1644953,7317088
+0100000US,,United States,3115,Dairy product manufacturing,2016,1706,143351,1890613,7600048
+0100000US,,United States,3116,Animal slaughtering and processing,2016,3586,496847,4246696,18215398
+0100000US,,United States,3117,Seafood product preparation and packaging,2016,586,30554,317108,1380087
+0100000US,,United States,3118,Bakeries and tortilla manufacturing,2016,11063,295047,2571684,10920480
+0100000US,,United States,3119,Other food manufacturing,2016,3749,196499,2310015,9907656
+0100000US,,United States,3121,Beverage manufacturing,2016,8319,184761,2117014,9363249
+0100000US,,United States,3122,Tobacco manufacturing,2016,146,13266,267231,879556
+0100000US,,United States,3131,"Fiber, yarn, and thread mills",2016,331,25170,209806,869473
+0100000US,,United States,3132,Fabric mills,2016,900,47958,498439,2036517
+0100000US,,United States,3133,Textile and fabric finishing and fabric coating mills,2016,920,28824,304970,1238549
+0100000US,,United States,3141,Textile furnishings mills,2016,1761,54151,484586,1980781
+0100000US,,United States,3149,Other textile product mills,2016,4270,58862,495576,2128125
+0100000US,,United States,3151,Apparel knitting mills,2016,247,12014,77652,344079
+0100000US,,United States,3152,Cut and sew apparel manufacturing,2016,5430,77289,499829,2158275
+0100000US,,United States,3159,Apparel accessories and other apparel manufacturing,2016,585,7488,52417,230481
+0100000US,,United States,3161,Leather and hide tanning and finishing,2016,205,3517,32876,142414
+0100000US,,United States,3162,Footwear manufacturing,2016,232,11413,99163,409212
+0100000US,,United States,3169,Other leather and allied product manufacturing,2016,766,10748,84668,401925
+0100000US,,United States,3211,Sawmills and wood preservation,2016,3213,84792,892037,3792895
+0100000US,,United States,3212,"Veneer, plywood, and engineered wood product manufacturing",2016,1412,75038,811032,3430426
+0100000US,,United States,3219,Other wood product manufacturing,2016,9626,231547,1993415,8820667
+0100000US,,United States,3221,"Pulp, paper, and paperboard mills",2016,453,103048,1961273,7799216
+0100000US,,United States,3222,Converted paper product manufacturing,2016,3638,245415,3301289,13482374
+0100000US,,United States,3231,Printing and related support activities,2016,25521,445992,4894561,20379434
+0100000US,,United States,3241,Petroleum and coal products manufacturing,2016,2167,104748,3115856,10938326
+0100000US,,United States,3251,Basic chemical manufacturing,2016,2490,157443,3696468,14319437
+0100000US,,United States,3252,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",2016,1400,95232,1903064,7290169
+0100000US,,United States,3253,"Pesticide, fertilizer, and other agricultural chemical manufacturing",2016,970,29651,537058,2146739
+0100000US,,United States,3254,Pharmaceutical and medicine manufacturing,2016,2366,247268,6979152,23601735
+0100000US,,United States,3255,"Paint, coating, and adhesive manufacturing",2016,1696,60058,976750,3989150
+0100000US,,United States,3256,"Soap, cleaning compound, and toilet preparation manufacturing",2016,2268,96672,1485003,5979605
+0100000US,,United States,3259,Other chemical product and preparation manufacturing,2016,2290,80447,1235165,5018047
+0100000US,,United States,3261,Plastics product manufacturing,2016,10266,618793,6982751,29184415
+0100000US,,United States,3262,Rubber product manufacturing,2016,1817,131540,1693183,6786246
+0100000US,,United States,3271,Clay product and refractory manufacturing,2016,1124,33392,379260,1570231
+0100000US,,United States,3272,Glass and glass product manufacturing,2016,1699,90639,1127762,4738287
+0100000US,,United States,3273,Cement and concrete product manufacturing,2016,8639,169201,1928395,8995712
+0100000US,,United States,3274,Lime and gypsum product manufacturing,2016,323,13619,214391,883525
+0100000US,,United States,3279,Other nonmetallic mineral product manufacturing,2016,3184,75786,926779,3942730
+0100000US,,United States,3311,Iron and steel mills and ferroalloy manufacturing,2016,611,93759,1788177,7125185
+0100000US,,United States,3312,Steel product manufacturing from purchased steel,2016,673,46596,640825,2611859
+0100000US,,United States,3313,Alumina and aluminum production and processing,2016,543,57221,919041,3395970
+0100000US,,United States,3314,Nonferrous metal (except aluminum) production and processing,2016,942,59265,900403,3585137
+0100000US,,United States,3315,Foundries,2016,1695,119032,1528328,6020248
+0100000US,,United States,3321,Forging and stamping,2016,2443,110014,1394910,5762461
+0100000US,,United States,3322,Cutlery and handtool manufacturing,2016,1165,36303,464307,1936780
+0100000US,,United States,3323,Architectural and structural metals manufacturing,2016,12765,347250,4034733,17376467
+0100000US,,United States,3324,"Boiler, tank, and shipping container manufacturing",2016,1533,84624,1231793,5049608
+0100000US,,United States,3325,Hardware manufacturing,2016,588,28151,333425,1382345
+0100000US,,United States,3326,Spring and wire product manufacturing,2016,1168,38313,426119,1814464
+0100000US,,United States,3327,"Machine shops; turned product; and screw, nut, and bolt manufacturing",2016,23157,372248,4433094,18744834
+0100000US,,United States,3328,"Coating, engraving, heat treating, and allied activities",2016,5689,126953,1368034,5782733
+0100000US,,United States,3329,Other fabricated metal product manufacturing,2016,6460,262410,3559884,14496749
+0100000US,,United States,3331,"Agriculture, construction, and mining machinery manufacturing",2016,3014,188565,2637749,10386572
+0100000US,,United States,3332,Industrial machinery manufacturing,2016,3181,105109,1890280,7547034
+0100000US,,United States,3333,Commercial and service industry machinery manufacturing,2016,1947,72621,1165671,4714836
+0100000US,,United States,3334,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",2016,1750,126808,1582437,6591379
+0100000US,,United States,3335,Metalworking machinery manufacturing,2016,6604,147167,2007247,8419931
+0100000US,,United States,3336,"Engine, turbine, and power transmission equipment manufacturing",2016,1039,95958,1560977,6235887
+0100000US,,United States,3339,Other general purpose machinery manufacturing,2016,5974,294522,4511707,18372696
+0100000US,,United States,3341,Computer and peripheral equipment manufacturing,2016,1032,42665,810273,3372729
+0100000US,,United States,3342,Communications equipment manufacturing,2016,1349,87208,1969322,7901944
+0100000US,,United States,3343,Audio and video equipment manufacturing,2016,497,9751,146956,646248
+0100000US,,United States,3344,Semiconductor and other electronic component manufacturing,2016,3904,262922,5104802,19486384
+0100000US,,United States,3345,"Navigational, measuring, electromedical, and control instruments manufacturing",2016,5120,374176,8136563,33075352
+0100000US,,United States,3346,Manufacturing and reproducing magnetic and optical media,2016,476,9665,123864,493737
+0100000US,,United States,3351,Electric lighting equipment manufacturing,2016,1115,43478,578119,2394562
+0100000US,,United States,3352,Household appliance manufacturing,2016,312,48916,590569,2465782
+0100000US,,United States,3353,Electrical equipment manufacturing,2016,2085,116415,1711004,6739813
+0100000US,,United States,3359,Other electrical equipment and component manufacturing,2016,2145,135527,2072335,8526094
+0100000US,,United States,3361,Motor vehicle manufacturing,2016,337,198039,4732805,17074780
+0100000US,,United States,3362,Motor vehicle body and trailer manufacturing,2016,1880,143649,1591940,6791318
+0100000US,,United States,3363,Motor vehicle parts manufacturing,2016,4948,560200,7565884,29959902
+0100000US,,United States,3364,Aerospace product and parts manufacturing,2016,1828,401046,9000893,35238086
+0100000US,,United States,3365,Railroad rolling stock manufacturing,2016,238,29018,453277,1804053
+0100000US,,United States,3366,Ship and boat building,2016,1508,140179,1995846,7951338
+0100000US,,United States,3369,Other transportation equipment manufacturing,2016,944,32141,440083,1704234
+0100000US,,United States,3371,Household and institutional furniture and kitchen cabinet manufacturing,2016,10726,223734,1983050,8520396
+0100000US,,United States,3372,Office furniture (including fixtures) manufacturing,2016,3561,113340,1314659,5482750
+0100000US,,United States,3379,Other furniture related product manufacturing,2016,744,31828,318822,1344823
+0100000US,,United States,3391,Medical equipment and supplies manufacturing,2016,10428,281335,4766477,18345090
+0100000US,,United States,3399,Other miscellaneous manufacturing,2016,15613,259724,2960179,12512002
+0100000US,,United States,4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,2016,23882,397905,5503173,22140756
+0100000US,,United States,4232,Furniture and home furnishing merchant wholesalers,2016,12030,152766,2195547,9290544
+0100000US,,United States,4233,Lumber and other construction materials merchant wholesalers,2016,17057,234025,3231555,13785669
+0100000US,,United States,4234,Professional and commercial equipment and supplies merchant wholesalers,2016,34982,654367,15433594,61850916
+0100000US,,United States,4235,Metal and mineral (except petroleum) merchant wholesalers,2016,9780,151302,2247978,9411432
+0100000US,,United States,4236,Household appliances and electrical and electronic goods merchant wholesalers,2016,30414,550173,13865304,57449179
+0100000US,,United States,4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers",2016,19040,240896,3782428,15556166
+0100000US,,United States,4238,"Machinery, equipment, and supplies merchant wholesalers",2016,57185,759824,12258093,50096883
+0100000US,,United States,4239,Miscellaneous durable goods merchant wholesalers,2016,33419,322788,4287394,18019872
+0100000US,,United States,4241,Paper and paper product merchant wholesalers,2016,9517,148078,2246567,8995532
+0100000US,,United States,4242,Drugs and druggists' sundries merchant wholesalers,2016,10117,298698,10121896,34723065
+0100000US,,United States,4243,"Apparel, piece goods, and notions merchant wholesalers",2016,15616,199078,2865961,12163762
+0100000US,,United States,4244,Grocery and related product merchant wholesalers,2016,35386,818329,10547334,43990582
+0100000US,,United States,4245,Farm product raw material merchant wholesalers,2016,6245,65111,808289,3596588
+0100000US,,United States,4246,Chemical and allied products merchant wholesalers,2016,12532,158170,3060976,12213386
+0100000US,,United States,4247,Petroleum and petroleum products merchant wholesalers,2016,6585,99677,2184382,7575293
+0100000US,,United States,4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",2016,4539,201711,3054000,12456669
+0100000US,,United States,4249,Miscellaneous nondurable goods merchant wholesalers,2016,28596,352283,4572439,18142163
+0100000US,,United States,4251,Wholesale electronic markets and agents and brokers,2016,45604,305567,3761220,16401011
+0100000US,,United States,4411,Automobile dealers,2016,46790,1298850,15878764,68245662
+0100000US,,United States,4412,Other motor vehicle dealers,2016,13689,144025,1321382,6302566
+0100000US,,United States,4413,"Automotive parts, accessories, and tire stores",2016,57722,529228,3739008,15567699
+0100000US,,United States,4421,Furniture stores,2016,23278,210429,1868046,7878510
+0100000US,,United States,4422,Home furnishings stores,2016,26755,242822,1464425,6426279
+0100000US,,United States,4431,Electronics and appliance stores,2016,40481,378632,2598433,11000047
+0100000US,,United States,4441,Building material and supplies dealers,2016,58105,1175490,8148965,36349772
+0100000US,,United States,4442,Lawn and garden equipment and supplies stores,2016,17632,155109,991275,4784666
+0100000US,,United States,4451,Grocery stores,2016,95387,2829847,15574029,63152207
+0100000US,,United States,4452,Specialty food stores,2016,23442,178989,858927,3725252
+0100000US,,United States,4453,"Beer, wine, and liquor stores",2016,33958,167286,883764,3794688
+0100000US,,United States,4461,Health and personal care stores,2016,96841,1057314,8050509,33752282
+0100000US,,United States,4471,Gasoline stations,2016,111076,947656,4471566,19112760
+0100000US,,United States,4481,Clothing stores,2016,96465,1372827,5410450,23086050
+0100000US,,United States,4482,Shoe stores,2016,24693,238361,926812,4005605
+0100000US,,United States,4483,"Jewelry, luggage, and leather goods stores",2016,22712,126907,1055648,4316418
+0100000US,,United States,4511,"Sporting goods, hobby, and musical instrument stores",2016,38383,477387,2070001,8826084
+0100000US,,United States,4512,Book stores and news dealers,2016,7548,91343,348118,1528186
+0100000US,,United States,4521,Department stores,2016,7930,970007,4788292,19830420
+0100000US,,United States,4529,Other general merchandise stores,2016,46609,1957427,11622314,48673823
+0100000US,,United States,4531,Florists,2016,13188,59614,261378,1124785
+0100000US,,United States,4532,"Office supplies, stationery, and gift stores",2016,28706,227321,981628,4285811
+0100000US,,United States,4533,Used merchandise stores,2016,20079,208500,881382,3800985
+0100000US,,United States,4539,Other miscellaneous store retailers,2016,47521,285679,1720329,7691098
+0100000US,,United States,4541,Electronic shopping and mail-order houses,2016,37206,434749,5476378,22256652
+0100000US,,United States,4542,Vending machine operators,2016,3735,35097,267534,1149599
+0100000US,,United States,4543,Direct selling establishments,2016,29165,166997,1679792,6986505
+0100000US,,United States,4811,Scheduled air transportation,2016,2230,428296,8347078,32045256
+0100000US,,United States,4812,Nonscheduled air transportation,2016,2292,38144,788392,3320229
+0100000US,,United States,4831,"Deep sea, coastal, and great lakes water transportation",2016,1134,42747,972299,3609239
+0100000US,,United States,4832,Inland water transportation,2016,543,22385,423926,1619143
+0100000US,,United States,4841,General freight trucking,2016,75637,977145,10827011,46481611
+0100000US,,United States,4842,Specialized freight trucking,2016,48683,483453,4983932,22279569
+0100000US,,United States,4851,Urban transit systems,2016,784,54270,597167,2547965
+0100000US,,United States,4852,Interurban and rural bus transportation,2016,465,13296,112166,468944
+0100000US,,United States,4853,Taxi and limousine service,2016,8386,77590,654212,2799063
+0100000US,,United States,4854,School and employee bus transportation,2016,4168,241655,1224709,5190700
+0100000US,,United States,4855,Charter bus industry,2016,1287,34262,234398,1070284
+0100000US,,United States,4859,Other transit and ground passenger transportation,2016,5157,94919,567514,2483855
+0100000US,,United States,4861,Pipeline transportation of crude oil,2016,785,14202,476633,1526553
+0100000US,,United States,4862,Pipeline transportation of natural gas,2016,2218,30698,1041428,3501174
+0100000US,,United States,4869,Other pipeline transportation,2016,692,8757,311695,994184
+0100000US,,United States,4871,"Scenic and sightseeing transportation, land",2016,753,11865,76428,371314
+0100000US,,United States,4872,"Scenic and sightseeing transportation, water",2016,1867,14488,94602,554022
+0100000US,,United States,4879,"Scenic and sightseeing transportation, other",2016,226,2712,28280,135092
+0100000US,,United States,4881,Support activities for air transportation,2016,5829,184818,1881008,7893885
+0100000US,,United States,4882,Support activities for rail transportation,2016,1347,41686,506121,2009046
+0100000US,,United States,4883,Support activities for water transportation,2016,2555,93444,1622098,6432132
+0100000US,,United States,4884,Support activities for road transportation,2016,11362,89473,707458,3044120
+0100000US,,United States,4885,Freight transportation arrangement,2016,20780,266153,3652988,14876312
+0100000US,,United States,4889,Other support activities for transportation,2016,1754,17241,145913,622395
+0100000US,,United States,4921,Couriers and express delivery services,2016,10198,566393,6154850,25369551
+0100000US,,United States,4922,Local messengers and local delivery,2016,4467,45553,319139,1427135
+0100000US,,United States,4931,Warehousing and storage,2016,15395,834064,8622263,36489781
+0100000US,,United States,5111,"Newspaper, periodical, book, and directory publishers",2016,17256,370408,5836978,22407823
+0100000US,,United States,5112,Software publishers,2016,10230,546191,20431263,83782339
+0100000US,,United States,5121,Motion picture and video industries,2016,21936,424638,3760832,15412236
+0100000US,,United States,5122,Sound recording industries,2016,3561,22940,541176,1998907
+0100000US,,United States,5151,Radio and television broadcasting,2016,7598,217316,4014983,15720528
+0100000US,,United States,5152,Cable and other subscription programming,2016,713,49756,2027111,6607373
+0100000US,,United States,5171,Wired telecommunications carriers,2016,36257,753259,17328511,59528636
+0100000US,,United States,5172,Wireless telecommunications carriers (except satellite),2016,15845,244740,4901693,16865646
+0100000US,,United States,5174,Satellite telecommunications,2016,463,8225,239313,887457
+0100000US,,United States,5179,Other telecommunications,2016,6671,64572,1318214,4962083
+0100000US,,United States,5182,"Data processing, hosting, and related services",2016,13566,462391,11196017,44059050
+0100000US,,United States,5191,Other information services,2016,12311,283514,12321058,45268946
+0100000US,,United States,5211,Monetary authorities - central bank,2016,59,19366,523086,2276471
+0100000US,,United States,5221,Depository credit intermediation,2016,118865,1953761,43928472,144059639
+0100000US,,United States,5222,Nondepository credit intermediation,2016,44609,597360,15780399,54965983
+0100000US,,United States,5223,Activities related to credit intermediation,2016,28673,287088,5653526,21787734
+0100000US,,United States,5231,Securities and commodity contracts intermediation and brokerage,2016,44577,410458,32075773,84337482
+0100000US,,United States,5232,Securities and commodity exchanges,2016,34,6250,493070,1262763
+0100000US,,United States,5239,Other financial investment activities,2016,57408,490141,34543000,98471116
+0100000US,,United States,5241,Insurance carriers,2016,35344,1574316,43247283,138582369
+0100000US,,United States,5242,"Agencies, brokerages, and other insurance related activities",2016,146168,990602,16774787,64872253
+0100000US,,United States,5259,Other investment pools and funds,2016,1248,7453,316522,1121539
+0100000US,,United States,5311,Lessors of real estate,2016,127121,576584,7106744,26744730
+0100000US,,United States,5312,Offices of real estate agents and brokers,2016,110873,306508,4837213,20391420
+0100000US,,United States,5313,Activities related to real estate,2016,96272,679909,8454714,35393558
+0100000US,,United States,5321,Automotive equipment rental and leasing,2016,16384,167083,1731139,7034847
+0100000US,,United States,5322,Consumer goods rental,2016,19633,146179,1135903,5061829
+0100000US,,United States,5323,General rental centers,2016,2768,19615,171149,786994
+0100000US,,United States,5324,Commercial and industrial machinery and equipment rental and leasing,2016,14896,179528,2786366,11371513
+0100000US,,United States,5331,Lessors of nonfinancial intangible assets (except copyrighted works),2016,2553,36012,992922,3722510
+0100000US,,United States,5411,Legal services,2016,185314,1137480,22375779,103077531
+0100000US,,United States,5412,"Accounting, tax preparation, bookkeeping, and payroll services",2016,133001,1233330,15734229,66900500
+0100000US,,United States,5413,"Architectural, engineering, and related services",2016,111047,1431680,28072625,119643680
+0100000US,,United States,5414,Specialized design services,2016,32347,119728,1566249,7053842
+0100000US,,United States,5415,Computer systems design and related services,2016,142078,1811108,42441123,173166164
+0100000US,,United States,5416,"Management, scientific, and technical consulting services",2016,171051,1224943,23681164,101117905
+0100000US,,United States,5417,Scientific research and development services,2016,19262,732560,23405116,85759615
+0100000US,,United States,5418,"Advertising, public relations, and related services",2016,37875,472163,8445299,33805415
+0100000US,,United States,5419,"Other professional, scientific, and technical services",2016,71559,636901,6990838,29774196
+0100000US,,United States,5511,Management of companies and enterprises,2016,55384,3380437,105603817,367229376
+0100000US,,United States,5611,Office administrative services,2016,31904,450462,7223869,29358812
+0100000US,,United States,5612,Facilities support services,2016,6739,232169,2581173,10931511
+0100000US,,United States,5613,Employment services,2016,52030,6438966,61595591,263654452
+0100000US,,United States,5614,Business support services,2016,32543,792443,6825312,27242849
+0100000US,,United States,5615,Travel arrangement and reservation services,2016,21402,222579,3688757,13807438
+0100000US,,United States,5616,Investigation and security services,2016,25715,933073,6417850,27567417
+0100000US,,United States,5617,Services to buildings and dwellings,2016,194614,1881593,10855115,53479589
+0100000US,,United States,5619,Other support services,2016,19930,284750,2808339,12001192
+0100000US,,United States,5621,Waste collection,2016,11436,206126,2632361,11745113
+0100000US,,United States,5622,Waste treatment and disposal,2016,2615,53951,832390,3533112
+0100000US,,United States,5629,Remediation and other waste management services,2016,10590,132397,1610386,7097060
+0100000US,,United States,6111,Elementary and secondary schools,2016,22118,1021821,8908162,37214819
+0100000US,,United States,6112,Junior colleges,2016,1013,74688,594607,2365679
+0100000US,,United States,6113,"Colleges, universities, and professional schools",2016,4453,1876692,18298642,77352987
+0100000US,,United States,6114,Business schools and computer and management training,2016,7783,63691,937463,3946250
+0100000US,,United States,6115,Technical and trade schools,2016,8167,109366,1025405,4266884
+0100000US,,United States,6116,Other schools and instruction,2016,50886,422708,1919832,8314714
+0100000US,,United States,6117,Educational support services,2016,8944,108309,1181800,5110716
+0100000US,,United States,6211,Offices of physicians,2016,224840,2535695,48558342,220010250
+0100000US,,United States,6212,Offices of dentists,2016,134620,923030,10230249,45404163
+0100000US,,United States,6213,Offices of other health practitioners,2016,151069,846983,7566764,33257165
+0100000US,,United States,6214,Outpatient care centers,2016,40589,941863,11531403,49339455
+0100000US,,United States,6215,Medical and diagnostic laboratories,2016,17494,283587,4072392,17609325
+0100000US,,United States,6216,Home health care services,2016,32464,1427131,9157976,39373118
+0100000US,,United States,6219,Other ambulatory health care services,2016,10898,295284,2915490,12412897
+0100000US,,United States,6221,General medical and surgical hospitals,2016,5417,5300881,76926441,322696505
+0100000US,,United States,6222,Psychiatric and substance abuse hospitals,2016,663,237128,2963431,12122208
+0100000US,,United States,6223,Specialty (except psychiatric and substance abuse) hospitals,2016,1020,296693,4287555,17996864
+0100000US,,United States,6231,Nursing care facilities (skilled nursing facilities),2016,17223,1667937,12196523,51014239
+0100000US,,United States,6232,"Residential intellectual and developmental disability, mental health, and substance abuse facilities",2016,41537,759216,4681716,19934347
+0100000US,,United States,6233,Continuing care retirement communities and assisted living facilities for the elderly,2016,24613,945168,5548360,23404941
+0100000US,,United States,6239,Other residential care facilities,2016,5187,131162,947361,4013193
+0100000US,,United States,6241,Individual and family services,2016,85227,1695361,9206986,39648056
+0100000US,,United States,6242,"Community food and housing, and emergency and other relief services",2016,14576,199825,1555366,6599497
+0100000US,,United States,6243,Vocational rehabilitation services,2016,7768,323029,1490942,6429807
+0100000US,,United States,6244,Child day care services,2016,75314,925735,4400159,18768732
+0100000US,,United States,7111,Performing arts companies,2016,9149,128107,1046177,4748120
+0100000US,,United States,7112,Spectator sports,2016,4357,135862,3994074,20981147
+0100000US,,United States,7113,"Promoters of performing arts, sports, and similar events",2016,7770,172611,1116933,5366064
+0100000US,,United States,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",2016,4100,20533,470372,2428027
+0100000US,,United States,7115,"Independent artists, writers, and performers",2016,26859,46638,964870,7517719
+0100000US,,United States,7121,"Museums, historical sites, and similar institutions",2016,7655,151270,1156383,5067023
+0100000US,,United States,7131,Amusement parks and arcades,2016,3388,200910,1072300,4752040
+0100000US,,United States,7132,Gambling industries,2016,2817,148424,1228181,5090944
+0100000US,,United States,7139,Other amusement and recreation industries,2016,71115,1307082,5524414,25172846
+0100000US,,United States,7211,Traveler accommodation,2016,57324,2011009,13581559,57831735
+0100000US,,United States,7212,RV (recreational vehicle) parks and recreational camps,2016,7390,44745,247124,1515855
+0100000US,,United States,7213,Rooming and boarding houses,2016,2070,11623,65140,259058
+0100000US,,United States,7223,Special food services,2016,43052,785853,3957285,17391075
+0100000US,,United States,7224,Drinking places (alcoholic beverages),2016,40590,378097,1491974,6482913
+0100000US,,United States,7225,Restaurants and other eating places,2016,553102,10472690,41104559,177780013
+0100000US,,United States,8111,Automotive repair and maintenance,2016,159882,892007,7338844,31712096
+0100000US,,United States,8112,Electronic and precision equipment repair and maintenance,2016,12236,103329,1347789,5586038
+0100000US,,United States,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,2016,21639,198263,2671179,11247482
+0100000US,,United States,8114,Personal and household goods repair and maintenance,2016,21050,71413,523208,2348517
+0100000US,,United States,8121,Personal care services,2016,129361,699658,3437515,14941725
+0100000US,,United States,8122,Death care services,2016,20794,140412,1186159,5047361
+0100000US,,United States,8123,Drycleaning and laundry services,2016,34250,292994,1859463,8014006
+0100000US,,United States,8129,Other personal services,2016,45867,308221,1641871,7198820
+0100000US,,United States,8131,Religious organizations,2016,184740,1686959,8871678,36547185
+0100000US,,United States,8132,Grantmaking and giving services,2016,20400,196826,2787970,11642411
+0100000US,,United States,8133,Social advocacy organizations,2016,17963,169300,1858943,7964816
+0100000US,,United States,8134,Civic and social organizations,2016,26647,246426,1221533,5289221
+0100000US,,United States,8139,"Business, professional, labor, political, and similar organizations",2016,59400,493436,6722205,27313116

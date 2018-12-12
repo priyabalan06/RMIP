@@ -1,0 +1,65 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,YEAR.id,ESTAB,EMP,PAYQTR1,PAYANN
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Year,Number of establishments,Paid employees for pay period including March 12 (number),"First-quarter payroll ($1,000)","Annual payroll ($1,000)"
+0400000US06,06,California,00,Total for all sectors,2016,922477,14600349,215854809,886643923
+0400000US06,06,California,11,"Agriculture, forestry, fishing and hunting",2016,1912,27481,219849,1084357
+0400000US06,06,California,21,"Mining, quarrying, and oil and gas extraction",2016,765,20933,502576,1765735
+0400000US06,06,California,22,Utilities,2016,1260,59601,2179652,7131984
+0400000US06,06,California,23,Construction,2016,71981,723574,10120106,45542694
+0400000US06,06,California,31-33,Manufacturing,2016,38103,1154342,18902649,77025732
+0400000US06,06,California,42,Wholesale trade,2016,59111,843285,17280973,70786097
+0400000US06,06,California,44-45,Retail trade,2016,108331,1711363,12600153,52902275
+0400000US06,06,California,48-49,Transportation and warehousing,2016,23852,505066,6324030,26685162
+0400000US06,06,California,51,Information,2016,23830,711680,22616989,88840160
+0400000US06,06,California,52,Finance and insurance,2016,51275,611298,19588573,68264682
+0400000US06,06,California,53,Real estate and rental and leasing,2016,54311,292748,4393844,17688206
+0400000US06,06,California,54,"Professional, scientific, and technical services",2016,124806,1190717,27255165,113612466
+0400000US06,06,California,55,Management of companies and enterprises,2016,5337,339153,11973420,46052536
+0400000US06,06,California,56,Administrative and support and waste management and remediation services,2016,44211,1457869,15841677,68650430
+0400000US06,06,California,61,Educational services,2016,14214,422749,3983090,16824012
+0400000US06,06,California,62,Health care and social assistance,2016,110728,1928468,25705993,110356720
+0400000US06,06,California,71,"Arts, entertainment, and recreation",2016,24907,338705,3161081,16997429
+0400000US06,06,California,72,Accommodation and food services,2016,86057,1671180,8517379,36606623
+0400000US06,06,California,81,Other services (except public administration),2016,74540,586153,4663263,19712885
+0400000US06,06,California,99,Industries not classified,2016,2946,3984,24347,113738
+0400000US36,36,New York,00,Total for all sectors,2016,544073,8178455,144956739,521872694
+0400000US36,36,New York,11,"Agriculture, forestry, fishing and hunting",2016,591,2898,24378,108815
+0400000US36,36,New York,21,"Mining, quarrying, and oil and gas extraction",2016,314,3798,53140,246009
+0400000US36,36,New York,22,Utilities,2016,633,40325,1127900,4173844
+0400000US36,36,New York,23,Construction,2016,48431,360410,5247277,24611988
+0400000US36,36,New York,31-33,Manufacturing,2016,15728,418987,5726554,23381160
+0400000US36,36,New York,42,Wholesale trade,2016,31436,363200,6213808,26119626
+0400000US36,36,New York,44-45,Retail trade,2016,78851,945066,6405443,27406369
+0400000US36,36,New York,48-49,Transportation and warehousing,2016,12886,252127,2890839,11835007
+0400000US36,36,New York,51,Information,2016,11836,296728,8960270,31468546
+0400000US36,36,New York,52,Finance and insurance,2016,26819,553058,44148675,107567572
+0400000US36,36,New York,53,Real estate and rental and leasing,2016,33539,180174,2755328,10952599
+0400000US36,36,New York,54,"Professional, scientific, and technical services",2016,61607,647503,14554863,60826624
+0400000US36,36,New York,55,Management of companies and enterprises,2016,3014,184213,7252869,24126009
+0400000US36,36,New York,56,Administrative and support and waste management and remediation services,2016,27130,594408,8002193,31938963
+0400000US36,36,New York,61,Educational services,2016,8272,423370,4338402,18284493
+0400000US36,36,New York,62,Health care and social assistance,2016,57619,1544405,17600791,75868966
+0400000US36,36,New York,71,"Arts, entertainment, and recreation",2016,12684,184485,1857591,9017688
+0400000US36,36,New York,72,Accommodation and food services,2016,53199,786423,4315306,19324891
+0400000US36,36,New York,81,Other services (except public administration),2016,58240,395244,3470095,14562101
+0400000US36,36,New York,99,Industries not classified,2016,1244,1633,11017,51424
+0400000US48,48,Texas,00,Total for all sectors,2016,579168,10429924,133923660,526782643
+0400000US48,48,Texas,11,"Agriculture, forestry, fishing and hunting",2016,1074,7127,69748,294383
+0400000US48,48,Texas,21,"Mining, quarrying, and oil and gas extraction",2016,8247,199207,5669505,19423536
+0400000US48,48,Texas,22,Utilities,2016,1979,55504,1661908,5424639
+0400000US48,48,Texas,23,Construction,2016,43163,674150,9034427,39076501
+0400000US48,48,Texas,31-33,Manufacturing,2016,19649,768921,12116839,47063698
+0400000US48,48,Texas,42,Wholesale trade,2016,33467,520508,8986273,35463985
+0400000US48,48,Texas,44-45,Retail trade,2016,80652,1304467,8475939,35851547
+0400000US48,48,Texas,48-49,Transportation and warehousing,2016,19228,445428,6111381,24307189
+0400000US48,48,Texas,51,Information,2016,9677,241572,5208095,19254940
+0400000US48,48,Texas,52,Finance and insurance,2016,40649,535456,12131069,42320901
+0400000US48,48,Texas,53,Real estate and rental and leasing,2016,30358,191473,2756892,10575360
+0400000US48,48,Texas,54,"Professional, scientific, and technical services",2016,68751,708331,13784679,57606777
+0400000US48,48,Texas,55,Management of companies and enterprises,2016,4939,325375,13049046,40188851
+0400000US48,48,Texas,56,Administrative and support and waste management and remediation services,2016,28165,979748,8774876,37542701
+0400000US48,48,Texas,61,Educational services,2016,7090,193774,1719006,7395947
+0400000US48,48,Texas,62,Health care and social assistance,2016,68189,1509548,15298651,66163589
+0400000US48,48,Texas,71,"Arts, entertainment, and recreation",2016,7308,144598,861585,4254204
+0400000US48,48,Texas,72,Accommodation and food services,2016,54188,1177398,4898909,20649987
+0400000US48,48,Texas,81,Other services (except public administration),2016,51352,445847,3307390,13887748
+0400000US48,48,Texas,99,Industries not classified,2016,1043,1492,7442,36160

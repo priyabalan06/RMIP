@@ -1,0 +1,23 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,YEAR.id,ESTAB,EMP,PAYQTR1,PAYANN
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Year,Number of establishments,Paid employees for pay period including March 12 (number),"First-quarter payroll ($1,000)","Annual payroll ($1,000)"
+0100000US,,United States,00,Total for all sectors,2016,7757807,126752238,1604399617,6435142055
+0100000US,,United States,11,"Agriculture, forestry, fishing and hunting",2016,22594,160411,1473183,6598512
+0100000US,,United States,21,"Mining, quarrying, and oil and gas extraction",2016,27234,587017,13917793,49397708
+0100000US,,United States,22,Utilities,2016,18159,638917,19556341,65402898
+0100000US,,United States,23,Construction,2016,696733,6311264,80778450,371256083
+0100000US,,United States,31-33,Manufacturing,2016,291543,11590420,164366878,663734098
+0100000US,,United States,42,Wholesale trade,2016,412526,6110748,106028130,427859468
+0100000US,,United States,44-45,Retail trade,2016,1069096,15967893,103339149,437654411
+0100000US,,United States,48-49,Transportation and warehousing,2016,230994,4729709,55373708,229162554
+0100000US,,United States,51,Information,2016,146407,3447950,83917149,317501024
+0100000US,,United States,52,Finance and insurance,2016,476985,6336795,193335918,611737349
+0100000US,,United States,53,Real estate and rental and leasing,2016,390500,2111418,27216150,110507401
+0100000US,,United States,54,"Professional, scientific, and technical services",2016,903534,8799893,172712422,720298848
+0100000US,,United States,55,Management of companies and enterprises,2016,55384,3380437,105603817,367229376
+0100000US,,United States,56,Administrative and support and waste management and remediation services,2016,409518,11628509,107071143,460418545
+0100000US,,United States,61,Educational services,2016,103364,3677275,32865911,138572049
+0100000US,,United States,62,Health care and social assistance,2016,890519,19735708,218237456,940034762
+0100000US,,United States,71,"Arts, entertainment, and recreation",2016,137210,2311437,16573704,81123930
+0100000US,,United States,72,Accommodation and food services,2016,703528,13704017,60447641,261260649
+0100000US,,United States,81,Other services (except public administration),2016,754229,5499244,41468357,174852794
+0100000US,,United States,99,Industries not classified,2016,17750,23176,116317,539596

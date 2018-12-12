@@ -1,0 +1,869 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,YEAR.id,ESTAB,EMP,PAYQTR1,PAYANN
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Year,Number of establishments,Paid employees for pay period including March 12 (number),"First-quarter payroll ($1,000)","Annual payroll ($1,000)"
+0400000US06,06,California,1131,Timber tract operations,2016,14,346,4975,21541
+0400000US06,06,California,1132,Forest nurseries and gathering of forest products,2016,9,70,431,2532
+0400000US06,06,California,1133,Logging,2016,211,1252,12322,81540
+0400000US06,06,California,1141,Fishing,2016,126,233,2779,16171
+0400000US06,06,California,1142,Hunting and trapping,2016,18,66,339,1419
+0400000US06,06,California,1151,Support activities for crop production,2016,928,22933,178446,865530
+0400000US06,06,California,1152,Support activities for animal production,2016,525,1980,14929,63983
+0400000US06,06,California,1153,Support activities for forestry,2016,81,601,5628,31641
+0400000US06,06,California,2111,Oil and gas extraction,2016,209,5640,234509,729101
+0400000US06,06,California,2121,Coal mining,2016,3,18,397,1740
+0400000US06,06,California,2122,Metal ore mining,2016,16,558,10402,41516
+0400000US06,06,California,2123,Nonmetallic mineral mining and quarrying,2016,243,4748,84367,344785
+0400000US06,06,California,2131,Support activities for mining,2016,294,9969,172901,648593
+0400000US06,06,California,2211,"Electric power generation, transmission and distribution",2016,555,44260,1780291,5818760
+0400000US06,06,California,2212,Natural gas distribution,2016,221,j,D,D
+0400000US06,06,California,2213,"Water, sewage and other systems",2016,484,4889,101086,383296
+0400000US06,06,California,2361,Residential building construction,2016,19402,93955,1222618,5264828
+0400000US06,06,California,2362,Nonresidential building construction,2016,4575,69608,1310259,5793095
+0400000US06,06,California,2371,Utility system construction,2016,1459,39227,684289,3078668
+0400000US06,06,California,2372,Land subdivision,2016,717,3671,71917,309975
+0400000US06,06,California,2373,"Highway, street, and bridge construction",2016,770,22914,436981,2093428
+0400000US06,06,California,2379,Other heavy and civil engineering construction,2016,334,5269,95816,441531
+0400000US06,06,California,2381,"Foundation, structure, and building exterior contractors",2016,7991,103660,1181215,5425554
+0400000US06,06,California,2382,Building equipment contractors,2016,18563,207527,3116718,13757744
+0400000US06,06,California,2383,Building finishing contractors,2016,12765,119670,1255278,5830862
+0400000US06,06,California,2389,Other specialty trade contractors,2016,5405,58073,745015,3547009
+0400000US06,06,California,3111,Animal food manufacturing,2016,133,6645,60664,275410
+0400000US06,06,California,3112,Grain and oilseed milling,2016,95,3874,51281,224952
+0400000US06,06,California,3113,Sugar and confectionery product manufacturing,2016,198,11566,122259,529080
+0400000US06,06,California,3114,Fruit and vegetable preserving and specialty food manufacturing,2016,328,25767,256538,1338768
+0400000US06,06,California,3115,Dairy product manufacturing,2016,233,17492,276400,1069770
+0400000US06,06,California,3116,Animal slaughtering and processing,2016,228,21501,195536,850212
+0400000US06,06,California,3117,Seafood product preparation and packaging,2016,41,1549,14743,64374
+0400000US06,06,California,3118,Bakeries and tortilla manufacturing,2016,1731,41351,338565,1435303
+0400000US06,06,California,3119,Other food manufacturing,2016,620,33745,402206,1819744
+0400000US06,06,California,3121,Beverage manufacturing,2016,2032,47527,660242,2810573
+0400000US06,06,California,3122,Tobacco manufacturing,2016,18,117,933,4430
+0400000US06,06,California,3131,"Fiber, yarn, and thread mills",2016,19,309,1967,10220
+0400000US06,06,California,3132,Fabric mills,2016,99,1644,14606,64809
+0400000US06,06,California,3133,Textile and fabric finishing and fabric coating mills,2016,170,4539,37000,158339
+0400000US06,06,California,3141,Textile furnishings mills,2016,208,3928,43714,169556
+0400000US06,06,California,3149,Other textile product mills,2016,466,4742,39292,179877
+0400000US06,06,California,3151,Apparel knitting mills,2016,26,722,6471,28294
+0400000US06,06,California,3152,Cut and sew apparel manufacturing,2016,2697,35016,230970,999842
+0400000US06,06,California,3159,Apparel accessories and other apparel manufacturing,2016,82,1104,9681,43229
+0400000US06,06,California,3161,Leather and hide tanning and finishing,2016,21,138,963,4557
+0400000US06,06,California,3162,Footwear manufacturing,2016,44,439,3457,16160
+0400000US06,06,California,3169,Other leather and allied product manufacturing,2016,108,1769,14924,64602
+0400000US06,06,California,3211,Sawmills and wood preservation,2016,81,3795,47942,189261
+0400000US06,06,California,3212,"Veneer, plywood, and engineered wood product manufacturing",2016,80,2810,25865,111962
+0400000US06,06,California,3219,Other wood product manufacturing,2016,906,15161,145726,626009
+0400000US06,06,California,3221,"Pulp, paper, and paperboard mills",2016,26,1299,23854,99451
+0400000US06,06,California,3222,Converted paper product manufacturing,2016,363,19937,268433,1112967
+0400000US06,06,California,3231,Printing and related support activities,2016,3103,41126,460609,1931518
+0400000US06,06,California,3241,Petroleum and coal products manufacturing,2016,182,11493,398510,1361633
+0400000US06,06,California,3251,Basic chemical manufacturing,2016,185,6609,148596,707758
+0400000US06,06,California,3252,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",2016,129,3625,65160,239495
+0400000US06,06,California,3253,"Pesticide, fertilizer, and other agricultural chemical manufacturing",2016,92,1781,23553,115994
+0400000US06,06,California,3254,Pharmaceutical and medicine manufacturing,2016,430,47589,1797641,5744794
+0400000US06,06,California,3255,"Paint, coating, and adhesive manufacturing",2016,197,3716,58326,238015
+0400000US06,06,California,3256,"Soap, cleaning compound, and toilet preparation manufacturing",2016,382,9746,129997,550336
+0400000US06,06,California,3259,Other chemical product and preparation manufacturing,2016,242,5710,74015,313248
+0400000US06,06,California,3261,Plastics product manufacturing,2016,1132,46757,544844,2298376
+0400000US06,06,California,3262,Rubber product manufacturing,2016,175,4955,53824,228413
+0400000US06,06,California,3271,Clay product and refractory manufacturing,2016,117,2054,21372,93529
+0400000US06,06,California,3272,Glass and glass product manufacturing,2016,234,8125,104978,442651
+0400000US06,06,California,3273,Cement and concrete product manufacturing,2016,563,15674,205022,906442
+0400000US06,06,California,3274,Lime and gypsum product manufacturing,2016,32,763,11700,48568
+0400000US06,06,California,3279,Other nonmetallic mineral product manufacturing,2016,244,6298,72577,310387
+0400000US06,06,California,3311,Iron and steel mills and ferroalloy manufacturing,2016,59,3021,52229,230941
+0400000US06,06,California,3312,Steel product manufacturing from purchased steel,2016,64,1660,25025,105524
+0400000US06,06,California,3313,Alumina and aluminum production and processing,2016,55,2898,40133,160047
+0400000US06,06,California,3314,Nonferrous metal (except aluminum) production and processing,2016,78,2284,30095,126659
+0400000US06,06,California,3315,Foundries,2016,152,5812,65632,263616
+0400000US06,06,California,3321,Forging and stamping,2016,261,8104,108046,452385
+0400000US06,06,California,3322,Cutlery and handtool manufacturing,2016,155,2105,23906,108465
+0400000US06,06,California,3323,Architectural and structural metals manufacturing,2016,1379,28959,343112,1501910
+0400000US06,06,California,3324,"Boiler, tank, and shipping container manufacturing",2016,117,4130,64065,268487
+0400000US06,06,California,3325,Hardware manufacturing,2016,80,2839,34980,148866
+0400000US06,06,California,3326,Spring and wire product manufacturing,2016,119,1906,20650,87591
+0400000US06,06,California,3327,"Machine shops; turned product; and screw, nut, and bolt manufacturing",2016,2929,46293,582195,2508828
+0400000US06,06,California,3328,"Coating, engraving, heat treating, and allied activities",2016,803,15547,158647,693757
+0400000US06,06,California,3329,Other fabricated metal product manufacturing,2016,621,16782,247549,1053156
+0400000US06,06,California,3331,"Agriculture, construction, and mining machinery manufacturing",2016,175,4359,59869,244413
+0400000US06,06,California,3332,Industrial machinery manufacturing,2016,346,9942,292368,992712
+0400000US06,06,California,3333,Commercial and service industry machinery manufacturing,2016,350,9325,172024,679610
+0400000US06,06,California,3334,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",2016,188,5762,81589,340059
+0400000US06,06,California,3335,Metalworking machinery manufacturing,2016,575,10026,129042,554829
+0400000US06,06,California,3336,"Engine, turbine, and power transmission equipment manufacturing",2016,93,6869,193454,768247
+0400000US06,06,California,3339,Other general purpose machinery manufacturing,2016,602,19341,328699,1365124
+0400000US06,06,California,3341,Computer and peripheral equipment manufacturing,2016,292,8492,173476,782360
+0400000US06,06,California,3342,Communications equipment manufacturing,2016,292,22549,595745,2394240
+0400000US06,06,California,3343,Audio and video equipment manufacturing,2016,134,2498,45148,192544
+0400000US06,06,California,3344,Semiconductor and other electronic component manufacturing,2016,1024,63516,1397099,5187784
+0400000US06,06,California,3345,"Navigational, measuring, electromedical, and control instruments manufacturing",2016,942,60314,1473262,6132060
+0400000US06,06,California,3346,Manufacturing and reproducing magnetic and optical media,2016,117,1748,28102,105446
+0400000US06,06,California,3351,Electric lighting equipment manufacturing,2016,240,7630,110361,473485
+0400000US06,06,California,3352,Household appliance manufacturing,2016,50,1130,11655,60253
+0400000US06,06,California,3353,Electrical equipment manufacturing,2016,221,8746,132793,575643
+0400000US06,06,California,3359,Other electrical equipment and component manufacturing,2016,355,16326,366982,1509546
+0400000US06,06,California,3361,Motor vehicle manufacturing,2016,47,j,D,D
+0400000US06,06,California,3362,Motor vehicle body and trailer manufacturing,2016,149,6126,56941,265898
+0400000US06,06,California,3363,Motor vehicle parts manufacturing,2016,527,17194,207586,870585
+0400000US06,06,California,3364,Aerospace product and parts manufacturing,2016,320,60918,1201430,5351836
+0400000US06,06,California,3365,Railroad rolling stock manufacturing,2016,12,903,18237,81395
+0400000US06,06,California,3366,Ship and boat building,2016,104,11236,147617,548198
+0400000US06,06,California,3369,Other transportation equipment manufacturing,2016,189,3437,40246,164997
+0400000US06,06,California,3371,Household and institutional furniture and kitchen cabinet manufacturing,2016,1263,21714,191240,846889
+0400000US06,06,California,3372,Office furniture (including fixtures) manufacturing,2016,400,9491,107247,469799
+0400000US06,06,California,3379,Other furniture related product manufacturing,2016,122,3991,43402,172323
+0400000US06,06,California,3391,Medical equipment and supplies manufacturing,2016,1578,52142,1177006,4342446
+0400000US06,06,California,3399,Other miscellaneous manufacturing,2016,2032,29623,357700,1504136
+0400000US06,06,California,4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,2016,3301,44789,646816,2652721
+0400000US06,06,California,4232,Furniture and home furnishing merchant wholesalers,2016,2219,27088,383244,1635467
+0400000US06,06,California,4233,Lumber and other construction materials merchant wholesalers,2016,1535,19738,275154,1161435
+0400000US06,06,California,4234,Professional and commercial equipment and supplies merchant wholesalers,2016,5013,101286,3196951,12361622
+0400000US06,06,California,4235,Metal and mineral (except petroleum) merchant wholesalers,2016,1097,15188,219276,917919
+0400000US06,06,California,4236,Household appliances and electrical and electronic goods merchant wholesalers,2016,5206,131596,4515566,19242399
+0400000US06,06,California,4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers",2016,2158,28743,525164,2036589
+0400000US06,06,California,4238,"Machinery, equipment, and supplies merchant wholesalers",2016,5523,63009,1008079,4208344
+0400000US06,06,California,4239,Miscellaneous durable goods merchant wholesalers,2016,5832,50040,709883,3081949
+0400000US06,06,California,4241,Paper and paper product merchant wholesalers,2016,1363,17575,272777,1133071
+0400000US06,06,California,4242,Drugs and druggists' sundries merchant wholesalers,2016,1911,39613,1255765,4405501
+0400000US06,06,California,4243,"Apparel, piece goods, and notions merchant wholesalers",2016,5308,55911,742560,3091020
+0400000US06,06,California,4244,Grocery and related product merchant wholesalers,2016,5723,115920,1527023,6447463
+0400000US06,06,California,4245,Farm product raw material merchant wholesalers,2016,277,3143,45925,202152
+0400000US06,06,California,4246,Chemical and allied products merchant wholesalers,2016,1331,16040,327132,1347421
+0400000US06,06,California,4247,Petroleum and petroleum products merchant wholesalers,2016,490,7506,126200,533717
+0400000US06,06,California,4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",2016,693,23341,404443,1592465
+0400000US06,06,California,4249,Miscellaneous nondurable goods merchant wholesalers,2016,4679,46428,583291,2485997
+0400000US06,06,California,4251,Wholesale electronic markets and agents and brokers,2016,5452,36331,515724,2248845
+0400000US06,06,California,4411,Automobile dealers,2016,3442,132841,1892905,7940425
+0400000US06,06,California,4412,Other motor vehicle dealers,2016,1024,11780,123145,552012
+0400000US06,06,California,4413,"Automotive parts, accessories, and tire stores",2016,5610,53231,404487,1695975
+0400000US06,06,California,4421,Furniture stores,2016,2259,19893,190688,813146
+0400000US06,06,California,4422,Home furnishings stores,2016,2917,30226,197272,857156
+0400000US06,06,California,4431,Electronics and appliance stores,2016,4555,48976,355101,1478299
+0400000US06,06,California,4441,Building material and supplies dealers,2016,5360,116434,858923,3757334
+0400000US06,06,California,4442,Lawn and garden equipment and supplies stores,2016,1246,10280,72852,332428
+0400000US06,06,California,4451,Grocery stores,2016,10586,324509,2207778,8990250
+0400000US06,06,California,4452,Specialty food stores,2016,2900,23192,122477,526042
+0400000US06,06,California,4453,"Beer, wine, and liquor stores",2016,3996,15887,85108,373396
+0400000US06,06,California,4461,Health and personal care stores,2016,10412,111224,958995,4015858
+0400000US06,06,California,4471,Gasoline stations,2016,7471,63372,335332,1474330
+0400000US06,06,California,4481,Clothing stores,2016,11671,193884,897539,3775426
+0400000US06,06,California,4482,Shoe stores,2016,3042,32560,144214,622323
+0400000US06,06,California,4483,"Jewelry, luggage, and leather goods stores",2016,2846,14127,139169,581491
+0400000US06,06,California,4511,"Sporting goods, hobby, and musical instrument stores",2016,4151,51886,238565,999788
+0400000US06,06,California,4512,Book stores and news dealers,2016,734,10834,42121,179027
+0400000US06,06,California,4521,Department stores,2016,862,146732,789629,3188125
+0400000US06,06,California,4529,Other general merchandise stores,2016,2676,128503,859962,3608831
+0400000US06,06,California,4531,Florists,2016,1175,4897,24207,103716
+0400000US06,06,California,4532,"Office supplies, stationery, and gift stores",2016,3090,26583,132734,574753
+0400000US06,06,California,4533,Used merchandise stores,2016,1935,21815,113074,483862
+0400000US06,06,California,4539,Other miscellaneous store retailers,2016,5027,31173,200279,885833
+0400000US06,06,California,4541,Electronic shopping and mail-order houses,2016,6703,70002,1049563,4396948
+0400000US06,06,California,4542,Vending machine operators,2016,240,2230,20555,86970
+0400000US06,06,California,4543,Direct selling establishments,2016,2401,14292,143479,608531
+0400000US06,06,California,4811,Scheduled air transportation,2016,279,47304,995074,3883137
+0400000US06,06,California,4812,Nonscheduled air transportation,2016,222,4094,93173,390150
+0400000US06,06,California,4831,"Deep sea, coastal, and great lakes water transportation",2016,98,5649,128901,465709
+0400000US06,06,California,4832,Inland water transportation,2016,24,622,13070,39102
+0400000US06,06,California,4841,General freight trucking,2016,7464,74112,828448,3642455
+0400000US06,06,California,4842,Specialized freight trucking,2016,3820,38899,420253,1935993
+0400000US06,06,California,4851,Urban transit systems,2016,154,10997,98277,444074
+0400000US06,06,California,4852,Interurban and rural bus transportation,2016,51,1209,11880,47318
+0400000US06,06,California,4853,Taxi and limousine service,2016,956,9421,113698,515685
+0400000US06,06,California,4854,School and employee bus transportation,2016,146,13750,83764,376014
+0400000US06,06,California,4855,Charter bus industry,2016,211,3567,27679,125798
+0400000US06,06,California,4859,Other transit and ground passenger transportation,2016,654,8659,61522,261723
+0400000US06,06,California,4861,Pipeline transportation of crude oil,2016,38,786,22022,72899
+0400000US06,06,California,4862,Pipeline transportation of natural gas,2016,17,227,7122,21815
+0400000US06,06,California,4869,Other pipeline transportation,2016,41,783,22085,76344
+0400000US06,06,California,4871,"Scenic and sightseeing transportation, land",2016,123,2568,17622,68369
+0400000US06,06,California,4872,"Scenic and sightseeing transportation, water",2016,193,2771,16023,81694
+0400000US06,06,California,4879,"Scenic and sightseeing transportation, other",2016,29,201,981,6227
+0400000US06,06,California,4881,Support activities for air transportation,2016,602,20555,193801,829836
+0400000US06,06,California,4882,Support activities for rail transportation,2016,78,3600,43076,183743
+0400000US06,06,California,4883,Support activities for water transportation,2016,190,23191,531828,2037428
+0400000US06,06,California,4884,Support activities for road transportation,2016,1488,13624,113878,484251
+0400000US06,06,California,4885,Freight transportation arrangement,2016,3069,37188,503249,2113070
+0400000US06,06,California,4889,Other support activities for transportation,2016,247,2276,21345,88652
+0400000US06,06,California,4921,Couriers and express delivery services,2016,1070,65698,734521,3059463
+0400000US06,06,California,4922,Local messengers and local delivery,2016,619,12263,79596,353809
+0400000US06,06,California,4931,Warehousing and storage,2016,1969,101052,1141142,5080404
+0400000US06,06,California,5111,"Newspaper, periodical, book, and directory publishers",2016,1758,27156,452144,1751274
+0400000US06,06,California,5112,Software publishers,2016,2089,143592,6740049,28047149
+0400000US06,06,California,5121,Motion picture and video industries,2016,7483,207739,2368650,9567030
+0400000US06,06,California,5122,Sound recording industries,2016,1016,7804,215677,739365
+0400000US06,06,California,5151,Radio and television broadcasting,2016,757,27000,670654,2554373
+0400000US06,06,California,5152,Cable and other subscription programming,2016,139,9947,354377,1145673
+0400000US06,06,California,5171,Wired telecommunications carriers,2016,3300,74669,1852451,6517626
+0400000US06,06,California,5172,Wireless telecommunications carriers (except satellite),2016,1806,21639,399363,1442063
+0400000US06,06,California,5174,Satellite telecommunications,2016,69,1091,33321,122772
+0400000US06,06,California,5179,Other telecommunications,2016,975,9023,178310,758366
+0400000US06,06,California,5182,"Data processing, hosting, and related services",2016,2297,78464,2415337,9659044
+0400000US06,06,California,5191,Other information services,2016,2141,103556,6936656,26535425
+0400000US06,06,California,5211,Monetary authorities - central bank,2016,3,g,D,D
+0400000US06,06,California,5221,Depository credit intermediation,2016,9837,167341,4415037,14887651
+0400000US06,06,California,5222,Nondepository credit intermediation,2016,4258,72847,2222007,7976923
+0400000US06,06,California,5223,Activities related to credit intermediation,2016,5043,43886,964642,4332270
+0400000US06,06,California,5231,Securities and commodity contracts intermediation and brokerage,2016,4602,34522,2470757,7257714
+0400000US06,06,California,5232,Securities and commodity exchanges,2016,3,21,399,1733
+0400000US06,06,California,5239,Other financial investment activities,2016,8407,59322,3655925,13295226
+0400000US06,06,California,5241,Insurance carriers,2016,3365,129584,3809329,12569671
+0400000US06,06,California,5242,"Agencies, brokerages, and other insurance related activities",2016,15583,101527,1965389,7622102
+0400000US06,06,California,5259,Other investment pools and funds,2016,174,676,38242,117896
+0400000US06,06,California,5311,Lessors of real estate,2016,17956,80069,1146548,4345182
+0400000US06,06,California,5312,Offices of real estate agents and brokers,2016,15582,41699,803074,3260524
+0400000US06,06,California,5313,Activities related to real estate,2016,14685,103952,1460909,6108328
+0400000US06,06,California,5321,Automotive equipment rental and leasing,2016,1828,20120,223042,926591
+0400000US06,06,California,5322,Consumer goods rental,2016,1634,16039,157040,757729
+0400000US06,06,California,5323,General rental centers,2016,235,1578,15617,68964
+0400000US06,06,California,5324,Commercial and industrial machinery and equipment rental and leasing,2016,2058,24950,413288,1618599
+0400000US06,06,California,5331,Lessors of nonfinancial intangible assets (except copyrighted works),2016,333,4341,174326,602289
+0400000US06,06,California,5411,Legal services,2016,23063,141294,3250224,14577148
+0400000US06,06,California,5412,"Accounting, tax preparation, bookkeeping, and payroll services",2016,17263,175256,2195010,9515140
+0400000US06,06,California,5413,"Architectural, engineering, and related services",2016,15047,173249,3593367,15524653
+0400000US06,06,California,5414,Specialized design services,2016,5214,22848,343114,1597308
+0400000US06,06,California,5415,Computer systems design and related services,2016,20468,254509,7124645,29949515
+0400000US06,06,California,5416,"Management, scientific, and technical consulting services",2016,25898,151133,2915128,13179033
+0400000US06,06,California,5417,Scientific research and development services,2016,3917,132699,5655670,20246839
+0400000US06,06,California,5418,"Advertising, public relations, and related services",2016,5406,66254,1286208,5209406
+0400000US06,06,California,5419,"Other professional, scientific, and technical services",2016,8530,73475,891799,3813424
+0400000US06,06,California,5511,Management of companies and enterprises,2016,5337,339153,11973420,46052536
+0400000US06,06,California,5611,Office administrative services,2016,4477,55746,993424,3909767
+0400000US06,06,California,5612,Facilities support services,2016,671,19531,202331,825722
+0400000US06,06,California,5613,Employment services,2016,5912,842638,10029588,43740908
+0400000US06,06,California,5614,Business support services,2016,4266,69162,655072,2757680
+0400000US06,06,California,5615,Travel arrangement and reservation services,2016,3052,27520,476490,2123207
+0400000US06,06,California,5616,Investigation and security services,2016,3726,155248,1030881,4456428
+0400000US06,06,California,5617,Services to buildings and dwellings,2016,17789,208041,1438075,6449482
+0400000US06,06,California,5619,Other support services,2016,2374,34018,335469,1449295
+0400000US06,06,California,5621,Waste collection,2016,925,27277,427279,1871267
+0400000US06,06,California,5622,Waste treatment and disposal,2016,200,4508,69498,286269
+0400000US06,06,California,5629,Remediation and other waste management services,2016,819,14180,183570,780405
+0400000US06,06,California,6111,Elementary and secondary schools,2016,2751,126419,1277728,5301270
+0400000US06,06,California,6112,Junior colleges,2016,129,6726,73774,291003
+0400000US06,06,California,6113,"Colleges, universities, and professional schools",2016,686,178386,1883412,7996917
+0400000US06,06,California,6114,Business schools and computer and management training,2016,946,7999,124714,543778
+0400000US06,06,California,6115,Technical and trade schools,2016,1076,15053,143135,587747
+0400000US06,06,California,6116,Other schools and instruction,2016,7334,72602,335744,1468122
+0400000US06,06,California,6117,Educational support services,2016,1292,15564,144583,635175
+0400000US06,06,California,6211,Offices of physicians,2016,32207,303995,6426439,29032970
+0400000US06,06,California,6212,Offices of dentists,2016,21800,129030,1328824,5882272
+0400000US06,06,California,6213,Offices of other health practitioners,2016,16664,87426,739415,3285946
+0400000US06,06,California,6214,Outpatient care centers,2016,4485,108463,1413054,6130018
+0400000US06,06,California,6215,Medical and diagnostic laboratories,2016,2378,34420,568193,2401401
+0400000US06,06,California,6216,Home health care services,2016,3423,89951,718401,3105258
+0400000US06,06,California,6219,Other ambulatory health care services,2016,913,31003,352037,1491522
+0400000US06,06,California,6221,General medical and surgical hospitals,2016,415,498986,9355759,38951088
+0400000US06,06,California,6222,Psychiatric and substance abuse hospitals,2016,48,22209,357208,1423285
+0400000US06,06,California,6223,Specialty (except psychiatric and substance abuse) hospitals,2016,49,16969,301513,1246344
+0400000US06,06,California,6231,Nursing care facilities (skilled nursing facilities),2016,1731,143480,1110813,4593198
+0400000US06,06,California,6232,"Residential intellectual and developmental disability, mental health, and substance abuse facilities",2016,3351,51852,358817,1514108
+0400000US06,06,California,6233,Continuing care retirement communities and assisted living facilities for the elderly,2016,3788,85946,545450,2255836
+0400000US06,06,California,6239,Other residential care facilities,2016,787,17552,139161,571606
+0400000US06,06,California,6241,Individual and family services,2016,8216,177248,1160598,4951571
+0400000US06,06,California,6242,"Community food and housing, and emergency and other relief services",2016,1419,21372,191193,806256
+0400000US06,06,California,6243,Vocational rehabilitation services,2016,806,32123,168575,711135
+0400000US06,06,California,6244,Child day care services,2016,8248,76443,470543,2002906
+0400000US06,06,California,7111,Performing arts companies,2016,1444,17439,137391,699442
+0400000US06,06,California,7112,Spectator sports,2016,548,14381,436086,2657183
+0400000US06,06,California,7113,"Promoters of performing arts, sports, and similar events",2016,1025,20239,143932,658751
+0400000US06,06,California,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",2016,1365,8185,229173,1258879
+0400000US06,06,California,7115,"Independent artists, writers, and performers",2016,12520,16931,606817,4918753
+0400000US06,06,California,7121,"Museums, historical sites, and similar institutions",2016,659,18916,167555,727029
+0400000US06,06,California,7131,Amusement parks and arcades,2016,318,62461,459363,1861303
+0400000US06,06,California,7132,Gambling industries,2016,208,31207,256960,1139484
+0400000US06,06,California,7139,Other amusement and recreation industries,2016,6820,148946,723804,3076605
+0400000US06,06,California,7211,Traveler accommodation,2016,5905,249969,1950242,8210600
+0400000US06,06,California,7212,RV (recreational vehicle) parks and recreational camps,2016,593,5515,31773,169700
+0400000US06,06,California,7213,Rooming and boarding houses,2016,223,1079,7187,30263
+0400000US06,06,California,7223,Special food services,2016,4395,81188,436024,1976119
+0400000US06,06,California,7224,Drinking places (alcoholic beverages),2016,3250,37710,167976,730908
+0400000US06,06,California,7225,Restaurants and other eating places,2016,71691,1295719,5924177,25489033
+0400000US06,06,California,8111,Automotive repair and maintenance,2016,18840,112338,925326,4039622
+0400000US06,06,California,8112,Electronic and precision equipment repair and maintenance,2016,1480,16098,226927,982646
+0400000US06,06,California,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,2016,1791,16003,235983,960310
+0400000US06,06,California,8114,Personal and household goods repair and maintenance,2016,2005,7393,57467,255422
+0400000US06,06,California,8121,Personal care services,2016,14662,78194,360039,1577361
+0400000US06,06,California,8122,Death care services,2016,998,10206,115021,462211
+0400000US06,06,California,8123,Drycleaning and laundry services,2016,4125,34379,250898,1072862
+0400000US06,06,California,8129,Other personal services,2016,6522,49103,357627,1440263
+0400000US06,06,California,8131,Religious organizations,2016,12164,138814,805634,3338614
+0400000US06,06,California,8132,Grantmaking and giving services,2016,2504,28645,357821,1486689
+0400000US06,06,California,8133,Social advocacy organizations,2016,2088,19705,220916,939806
+0400000US06,06,California,8134,Civic and social organizations,2016,2332,30103,155234,688488
+0400000US06,06,California,8139,"Business, professional, labor, political, and similar organizations",2016,5029,45172,594370,2468591
+0400000US36,36,New York,1131,Timber tract operations,2016,4,4,37,147
+0400000US36,36,New York,1132,Forest nurseries and gathering of forest products,2016,1,a,D,D
+0400000US36,36,New York,1133,Logging,2016,194,665,6012,24948
+0400000US36,36,New York,1141,Fishing,2016,46,97,746,4983
+0400000US36,36,New York,1142,Hunting and trapping,2016,5,18,124,500
+0400000US36,36,New York,1151,Support activities for crop production,2016,59,804,7067,31798
+0400000US36,36,New York,1152,Support activities for animal production,2016,267,1219,9257,41848
+0400000US36,36,New York,1153,Support activities for forestry,2016,15,91,1135,4549
+0400000US36,36,New York,2111,Oil and gas extraction,2016,38,295,6294,25832
+0400000US36,36,New York,2121,Coal mining,2016,1,a,D,D
+0400000US36,36,New York,2122,Metal ore mining,2016,3,a,D,D
+0400000US36,36,New York,2123,Nonmetallic mineral mining and quarrying,2016,223,2920,34306,175631
+0400000US36,36,New York,2131,Support activities for mining,2016,49,568,12177,42998
+0400000US36,36,New York,2211,"Electric power generation, transmission and distribution",2016,457,35168,1029133,3750119
+0400000US36,36,New York,2212,Natural gas distribution,2016,85,3960,76811,337075
+0400000US36,36,New York,2213,"Water, sewage and other systems",2016,91,1197,21956,86650
+0400000US36,36,New York,2361,Residential building construction,2016,14819,53262,572822,2663643
+0400000US36,36,New York,2362,Nonresidential building construction,2016,2500,39180,733937,3362016
+0400000US36,36,New York,2371,Utility system construction,2016,574,14230,241534,1167307
+0400000US36,36,New York,2372,Land subdivision,2016,184,971,19212,98207
+0400000US36,36,New York,2373,"Highway, street, and bridge construction",2016,472,11083,206196,1223328
+0400000US36,36,New York,2379,Other heavy and civil engineering construction,2016,189,5609,123491,509793
+0400000US36,36,New York,2381,"Foundation, structure, and building exterior contractors",2016,5152,40603,529390,2605426
+0400000US36,36,New York,2382,Building equipment contractors,2016,12449,126779,1977688,8820790
+0400000US36,36,New York,2383,Building finishing contractors,2016,8500,45116,549638,2567097
+0400000US36,36,New York,2389,Other specialty trade contractors,2016,3592,23577,293369,1594381
+0400000US36,36,New York,3111,Animal food manufacturing,2016,50,1242,19383,79814
+0400000US36,36,New York,3112,Grain and oilseed milling,2016,29,1313,17985,74100
+0400000US36,36,New York,3113,Sugar and confectionery product manufacturing,2016,145,2858,28852,122872
+0400000US36,36,New York,3114,Fruit and vegetable preserving and specialty food manufacturing,2016,97,5015,53724,235210
+0400000US36,36,New York,3115,Dairy product manufacturing,2016,120,9948,136462,522052
+0400000US36,36,New York,3116,Animal slaughtering and processing,2016,143,3197,33548,147051
+0400000US36,36,New York,3117,Seafood product preparation and packaging,2016,18,284,3809,22323
+0400000US36,36,New York,3118,Bakeries and tortilla manufacturing,2016,1271,19001,131292,561872
+0400000US36,36,New York,3119,Other food manufacturing,2016,237,6937,72423,321848
+0400000US36,36,New York,3121,Beverage manufacturing,2016,468,8022,81752,370324
+0400000US36,36,New York,3122,Tobacco manufacturing,2016,9,291,2835,13825
+0400000US36,36,New York,3131,"Fiber, yarn, and thread mills",2016,10,36,229,927
+0400000US36,36,New York,3132,Fabric mills,2016,73,2134,22635,94020
+0400000US36,36,New York,3133,Textile and fabric finishing and fabric coating mills,2016,68,767,10276,39785
+0400000US36,36,New York,3141,Textile furnishings mills,2016,88,1060,10893,46639
+0400000US36,36,New York,3149,Other textile product mills,2016,209,2889,22860,105661
+0400000US36,36,New York,3151,Apparel knitting mills,2016,33,305,2421,10410
+0400000US36,36,New York,3152,Cut and sew apparel manufacturing,2016,907,9457,68084,294942
+0400000US36,36,New York,3159,Apparel accessories and other apparel manufacturing,2016,81,1132,8521,36358
+0400000US36,36,New York,3161,Leather and hide tanning and finishing,2016,31,533,4977,20411
+0400000US36,36,New York,3162,Footwear manufacturing,2016,17,175,1425,6073
+0400000US36,36,New York,3169,Other leather and allied product manufacturing,2016,51,601,4841,21830
+0400000US36,36,New York,3211,Sawmills and wood preservation,2016,90,1423,14142,57360
+0400000US36,36,New York,3212,"Veneer, plywood, and engineered wood product manufacturing",2016,20,584,9111,30241
+0400000US36,36,New York,3219,Other wood product manufacturing,2016,443,6461,59471,252364
+0400000US36,36,New York,3221,"Pulp, paper, and paperboard mills",2016,32,4196,73703,304261
+0400000US36,36,New York,3222,Converted paper product manufacturing,2016,189,10338,135734,544551
+0400000US36,36,New York,3231,Printing and related support activities,2016,1609,20527,242841,979982
+0400000US36,36,New York,3241,Petroleum and coal products manufacturing,2016,124,1209,15476,96318
+0400000US36,36,New York,3251,Basic chemical manufacturing,2016,79,5075,103215,421714
+0400000US36,36,New York,3252,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",2016,35,1075,15571,65612
+0400000US36,36,New York,3253,"Pesticide, fertilizer, and other agricultural chemical manufacturing",2016,33,474,6402,34158
+0400000US36,36,New York,3254,Pharmaceutical and medicine manufacturing,2016,142,20526,399324,1521237
+0400000US36,36,New York,3255,"Paint, coating, and adhesive manufacturing",2016,64,1294,19605,87159
+0400000US36,36,New York,3256,"Soap, cleaning compound, and toilet preparation manufacturing",2016,138,5863,82564,328100
+0400000US36,36,New York,3259,Other chemical product and preparation manufacturing,2016,77,4794,78821,316970
+0400000US36,36,New York,3261,Plastics product manufacturing,2016,397,19937,230178,925929
+0400000US36,36,New York,3262,Rubber product manufacturing,2016,47,2315,43803,144254
+0400000US36,36,New York,3271,Clay product and refractory manufacturing,2016,42,1538,17092,69075
+0400000US36,36,New York,3272,Glass and glass product manufacturing,2016,115,4091,52105,217096
+0400000US36,36,New York,3273,Cement and concrete product manufacturing,2016,289,5217,57471,285922
+0400000US36,36,New York,3274,Lime and gypsum product manufacturing,2016,10,187,3791,18635
+0400000US36,36,New York,3279,Other nonmetallic mineral product manufacturing,2016,177,4088,52309,221949
+0400000US36,36,New York,3311,Iron and steel mills and ferroalloy manufacturing,2016,27,1645,25262,98744
+0400000US36,36,New York,3312,Steel product manufacturing from purchased steel,2016,18,463,6969,29434
+0400000US36,36,New York,3313,Alumina and aluminum production and processing,2016,16,2451,48074,164134
+0400000US36,36,New York,3314,Nonferrous metal (except aluminum) production and processing,2016,80,4268,65948,251502
+0400000US36,36,New York,3315,Foundries,2016,39,1294,15210,61967
+0400000US36,36,New York,3321,Forging and stamping,2016,98,2399,28980,127514
+0400000US36,36,New York,3322,Cutlery and handtool manufacturing,2016,58,1544,18261,76025
+0400000US36,36,New York,3323,Architectural and structural metals manufacturing,2016,648,12376,153021,660123
+0400000US36,36,New York,3324,"Boiler, tank, and shipping container manufacturing",2016,63,4364,64121,265033
+0400000US36,36,New York,3325,Hardware manufacturing,2016,28,975,11794,46818
+0400000US36,36,New York,3326,Spring and wire product manufacturing,2016,39,845,9540,39285
+0400000US36,36,New York,3327,"Machine shops; turned product; and screw, nut, and bolt manufacturing",2016,857,13601,157815,679869
+0400000US36,36,New York,3328,"Coating, engraving, heat treating, and allied activities",2016,187,3513,39638,162338
+0400000US36,36,New York,3329,Other fabricated metal product manufacturing,2016,243,9485,128826,520941
+0400000US36,36,New York,3331,"Agriculture, construction, and mining machinery manufacturing",2016,47,2100,26694,107584
+0400000US36,36,New York,3332,Industrial machinery manufacturing,2016,164,5336,83189,331367
+0400000US36,36,New York,3333,Commercial and service industry machinery manufacturing,2016,98,2751,40245,166704
+0400000US36,36,New York,3334,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",2016,68,2784,33072,144476
+0400000US36,36,New York,3335,Metalworking machinery manufacturing,2016,227,5022,71779,305097
+0400000US36,36,New York,3336,"Engine, turbine, and power transmission equipment manufacturing",2016,46,6899,104781,429862
+0400000US36,36,New York,3339,Other general purpose machinery manufacturing,2016,224,14491,235982,961634
+0400000US36,36,New York,3341,Computer and peripheral equipment manufacturing,2016,54,2636,43464,179004
+0400000US36,36,New York,3342,Communications equipment manufacturing,2016,79,4957,80985,356341
+0400000US36,36,New York,3343,Audio and video equipment manufacturing,2016,29,311,3412,16731
+0400000US36,36,New York,3344,Semiconductor and other electronic component manufacturing,2016,217,19367,317025,1430443
+0400000US36,36,New York,3345,"Navigational, measuring, electromedical, and control instruments manufacturing",2016,241,15057,309574,1233662
+0400000US36,36,New York,3346,Manufacturing and reproducing magnetic and optical media,2016,36,471,7665,36437
+0400000US36,36,New York,3351,Electric lighting equipment manufacturing,2016,94,2638,32428,137692
+0400000US36,36,New York,3352,Household appliance manufacturing,2016,7,922,7126,28994
+0400000US36,36,New York,3353,Electrical equipment manufacturing,2016,108,3521,46851,196866
+0400000US36,36,New York,3359,Other electrical equipment and component manufacturing,2016,102,6166,100453,375727
+0400000US36,36,New York,3361,Motor vehicle manufacturing,2016,9,104,1852,7817
+0400000US36,36,New York,3362,Motor vehicle body and trailer manufacturing,2016,50,1280,16135,64484
+0400000US36,36,New York,3363,Motor vehicle parts manufacturing,2016,121,9947,222047,655638
+0400000US36,36,New York,3364,Aerospace product and parts manufacturing,2016,58,6173,109181,452729
+0400000US36,36,New York,3365,Railroad rolling stock manufacturing,2016,16,2300,33734,150235
+0400000US36,36,New York,3366,Ship and boat building,2016,38,479,5864,26257
+0400000US36,36,New York,3369,Other transportation equipment manufacturing,2016,20,326,4366,17298
+0400000US36,36,New York,3371,Household and institutional furniture and kitchen cabinet manufacturing,2016,653,6738,67304,289958
+0400000US36,36,New York,3372,Office furniture (including fixtures) manufacturing,2016,258,5033,58589,252842
+0400000US36,36,New York,3379,Other furniture related product manufacturing,2016,42,1572,15228,71021
+0400000US36,36,New York,3391,Medical equipment and supplies manufacturing,2016,641,13503,198285,762501
+0400000US36,36,New York,3399,Other miscellaneous manufacturing,2016,1273,18471,223829,936798
+0400000US36,36,New York,4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,2016,1257,14056,154168,641725
+0400000US36,36,New York,4232,Furniture and home furnishing merchant wholesalers,2016,1215,12196,203925,883089
+0400000US36,36,New York,4233,Lumber and other construction materials merchant wholesalers,2016,844,11021,147061,666069
+0400000US36,36,New York,4234,Professional and commercial equipment and supplies merchant wholesalers,2016,2208,40561,824849,3282551
+0400000US36,36,New York,4235,Metal and mineral (except petroleum) merchant wholesalers,2016,502,4887,78231,341943
+0400000US36,36,New York,4236,Household appliances and electrical and electronic goods merchant wholesalers,2016,2000,23715,494894,2108378
+0400000US36,36,New York,4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers",2016,968,10558,172578,726764
+0400000US36,36,New York,4238,"Machinery, equipment, and supplies merchant wholesalers",2016,2155,24170,390199,1627651
+0400000US36,36,New York,4239,Miscellaneous durable goods merchant wholesalers,2016,4305,30551,421003,1808003
+0400000US36,36,New York,4241,Paper and paper product merchant wholesalers,2016,746,8579,132667,537049
+0400000US36,36,New York,4242,Drugs and druggists' sundries merchant wholesalers,2016,1041,24829,559662,2376582
+0400000US36,36,New York,4243,"Apparel, piece goods, and notions merchant wholesalers",2016,3383,41103,799392,3526764
+0400000US36,36,New York,4244,Grocery and related product merchant wholesalers,2016,3997,58917,809415,3346937
+0400000US36,36,New York,4245,Farm product raw material merchant wholesalers,2016,119,1290,36057,143912
+0400000US36,36,New York,4246,Chemical and allied products merchant wholesalers,2016,603,6278,147026,570102
+0400000US36,36,New York,4247,Petroleum and petroleum products merchant wholesalers,2016,249,2978,68746,245702
+0400000US36,36,New York,4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",2016,441,16093,351989,1442997
+0400000US36,36,New York,4249,Miscellaneous nondurable goods merchant wholesalers,2016,2134,16618,231166,965888
+0400000US36,36,New York,4251,Wholesale electronic markets and agents and brokers,2016,3269,14800,190780,877520
+0400000US36,36,New York,4411,Automobile dealers,2016,2170,57610,690263,3127951
+0400000US36,36,New York,4412,Other motor vehicle dealers,2016,551,4750,41849,213998
+0400000US36,36,New York,4413,"Automotive parts, accessories, and tire stores",2016,2119,19253,136131,550483
+0400000US36,36,New York,4421,Furniture stores,2016,1515,11099,106421,458346
+0400000US36,36,New York,4422,Home furnishings stores,2016,1793,17189,100015,443047
+0400000US36,36,New York,4431,Electronics and appliance stores,2016,3085,26672,210501,887166
+0400000US36,36,New York,4441,Building material and supplies dealers,2016,3784,61668,450132,2043892
+0400000US36,36,New York,4442,Lawn and garden equipment and supplies stores,2016,745,5485,35434,200732
+0400000US36,36,New York,4451,Grocery stores,2016,12830,191809,1031169,4268438
+0400000US36,36,New York,4452,Specialty food stores,2016,2970,19039,105450,458762
+0400000US36,36,New York,4453,"Beer, wine, and liquor stores",2016,3235,13037,76998,336708
+0400000US36,36,New York,4461,Health and personal care stores,2016,8477,89375,673133,2912669
+0400000US36,36,New York,4471,Gasoline stations,2016,4696,33253,168634,725946
+0400000US36,36,New York,4481,Clothing stores,2016,7707,116275,609980,2612494
+0400000US36,36,New York,4482,Shoe stores,2016,1849,19965,92118,405515
+0400000US36,36,New York,4483,"Jewelry, luggage, and leather goods stores",2016,2257,10691,102955,430221
+0400000US36,36,New York,4511,"Sporting goods, hobby, and musical instrument stores",2016,2235,25545,110664,485816
+0400000US36,36,New York,4512,Book stores and news dealers,2016,773,6823,31257,131607
+0400000US36,36,New York,4521,Department stores,2016,372,66806,357383,1497274
+0400000US36,36,New York,4529,Other general merchandise stores,2016,2720,60549,329926,1394540
+0400000US36,36,New York,4531,Florists,2016,1074,4217,24659,111646
+0400000US36,36,New York,4532,"Office supplies, stationery, and gift stores",2016,2158,15937,72369,316456
+0400000US36,36,New York,4533,Used merchandise stores,2016,1023,6759,39050,172398
+0400000US36,36,New York,4539,Other miscellaneous store retailers,2016,3077,17712,232517,932988
+0400000US36,36,New York,4541,Electronic shopping and mail-order houses,2016,3426,27505,391443,1529404
+0400000US36,36,New York,4542,Vending machine operators,2016,227,1837,15382,63687
+0400000US36,36,New York,4543,Direct selling establishments,2016,1983,14206,169610,694185
+0400000US36,36,New York,4811,Scheduled air transportation,2016,191,33275,703970,2498311
+0400000US36,36,New York,4812,Nonscheduled air transportation,2016,105,887,16296,71240
+0400000US36,36,New York,4831,"Deep sea, coastal, and great lakes water transportation",2016,106,2118,53180,224140
+0400000US36,36,New York,4832,Inland water transportation,2016,32,529,6882,33377
+0400000US36,36,New York,4841,General freight trucking,2016,2868,26744,280459,1221956
+0400000US36,36,New York,4842,Specialized freight trucking,2016,1976,17163,172939,805313
+0400000US36,36,New York,4851,Urban transit systems,2016,100,8893,141767,553289
+0400000US36,36,New York,4852,Interurban and rural bus transportation,2016,41,1338,12446,51797
+0400000US36,36,New York,4853,Taxi and limousine service,2016,2023,11969,100035,463709
+0400000US36,36,New York,4854,School and employee bus transportation,2016,376,42307,275942,1173047
+0400000US36,36,New York,4855,Charter bus industry,2016,114,2605,18219,83894
+0400000US36,36,New York,4859,Other transit and ground passenger transportation,2016,542,11996,84279,367835
+0400000US36,36,New York,4861,Pipeline transportation of crude oil,2016,2,a,D,D
+0400000US36,36,New York,4862,Pipeline transportation of natural gas,2016,55,612,16999,59661
+0400000US36,36,New York,4869,Other pipeline transportation,2016,13,77,2235,7865
+0400000US36,36,New York,4871,"Scenic and sightseeing transportation, land",2016,60,1202,8539,46683
+0400000US36,36,New York,4872,"Scenic and sightseeing transportation, water",2016,108,1001,6176,49259
+0400000US36,36,New York,4879,"Scenic and sightseeing transportation, other",2016,10,134,1613,7802
+0400000US36,36,New York,4881,Support activities for air transportation,2016,208,12267,107648,425582
+0400000US36,36,New York,4882,Support activities for rail transportation,2016,25,331,3646,14986
+0400000US36,36,New York,4883,Support activities for water transportation,2016,91,1608,36314,153331
+0400000US36,36,New York,4884,Support activities for road transportation,2016,569,3219,24333,107001
+0400000US36,36,New York,4885,Freight transportation arrangement,2016,1618,17426,253804,1048761
+0400000US36,36,New York,4889,Other support activities for transportation,2016,98,591,4240,18214
+0400000US36,36,New York,4921,Couriers and express delivery services,2016,571,29600,327268,1355848
+0400000US36,36,New York,4922,Local messengers and local delivery,2016,458,4542,29689,131568
+0400000US36,36,New York,4931,Warehousing and storage,2016,526,19689,201797,860131
+0400000US36,36,New York,5111,"Newspaper, periodical, book, and directory publishers",2016,1416,50270,1263410,4667663
+0400000US36,36,New York,5112,Software publishers,2016,575,17696,809759,3117441
+0400000US36,36,New York,5121,Motion picture and video industries,2016,2762,39613,422602,1734554
+0400000US36,36,New York,5122,Sound recording industries,2016,551,5468,193423,714464
+0400000US36,36,New York,5151,Radio and television broadcasting,2016,384,23974,890621,3270437
+0400000US36,36,New York,5152,Cable and other subscription programming,2016,101,18088,906755,2929590
+0400000US36,36,New York,5171,Wired telecommunications carriers,2016,2147,50796,1421020,4698829
+0400000US36,36,New York,5172,Wireless telecommunications carriers (except satellite),2016,841,9989,201279,730478
+0400000US36,36,New York,5174,Satellite telecommunications,2016,26,382,11458,40242
+0400000US36,36,New York,5179,Other telecommunications,2016,630,4844,137623,498718
+0400000US36,36,New York,5182,"Data processing, hosting, and related services",2016,817,26872,749539,2871862
+0400000US36,36,New York,5191,Other information services,2016,1586,48736,1952781,6194268
+0400000US36,36,New York,5211,Monetary authorities - central bank,2016,2,h,D,D
+0400000US36,36,New York,5221,Depository credit intermediation,2016,6591,148414,7336192,18849260
+0400000US36,36,New York,5222,Nondepository credit intermediation,2016,1250,24874,1365635,4093655
+0400000US36,36,New York,5223,Activities related to credit intermediation,2016,1501,14242,471431,1479688
+0400000US36,36,New York,5231,Securities and commodity contracts intermediation and brokerage,2016,3167,102040,15996925,33741541
+0400000US36,36,New York,5232,Securities and commodity exchanges,2016,17,3311,315341,755502
+0400000US36,36,New York,5239,Other financial investment activities,2016,5018,88172,12943635,30940997
+0400000US36,36,New York,5241,Insurance carriers,2016,1679,106525,3972910,11574795
+0400000US36,36,New York,5242,"Agencies, brokerages, and other insurance related activities",2016,7469,61963,1593058,5497620
+0400000US36,36,New York,5259,Other investment pools and funds,2016,125,641,46094,151312
+0400000US36,36,New York,5311,Lessors of real estate,2016,16958,73722,1055706,3993400
+0400000US36,36,New York,5312,Offices of real estate agents and brokers,2016,5358,20799,451923,1795781
+0400000US36,36,New York,5313,Activities related to real estate,2016,8586,59321,919313,3778092
+0400000US36,36,New York,5321,Automotive equipment rental and leasing,2016,825,8167,82517,333362
+0400000US36,36,New York,5322,Consumer goods rental,2016,928,7496,67506,297734
+0400000US36,36,New York,5323,General rental centers,2016,100,612,5682,27761
+0400000US36,36,New York,5324,Commercial and industrial machinery and equipment rental and leasing,2016,640,7647,118125,504684
+0400000US36,36,New York,5331,Lessors of nonfinancial intangible assets (except copyrighted works),2016,144,2410,54556,221785
+0400000US36,36,New York,5411,Legal services,2016,13839,122137,3216761,14031375
+0400000US36,36,New York,5412,"Accounting, tax preparation, bookkeeping, and payroll services",2016,9029,100074,1752404,7319688
+0400000US36,36,New York,5413,"Architectural, engineering, and related services",2016,6121,67007,1269708,5804345
+0400000US36,36,New York,5414,Specialized design services,2016,3709,14428,227128,1055481
+0400000US36,36,New York,5415,Computer systems design and related services,2016,8421,91793,2256392,9139620
+0400000US36,36,New York,5416,"Management, scientific, and technical consulting services",2016,11062,78336,1994656,8328501
+0400000US36,36,New York,5417,Scientific research and development services,2016,963,41724,858742,3505502
+0400000US36,36,New York,5418,"Advertising, public relations, and related services",2016,3784,88896,2227077,8525318
+0400000US36,36,New York,5419,"Other professional, scientific, and technical services",2016,4679,43108,751995,3116794
+0400000US36,36,New York,5511,Management of companies and enterprises,2016,3014,184213,7252869,24126009
+0400000US36,36,New York,5611,Office administrative services,2016,2267,32811,553633,2355112
+0400000US36,36,New York,5612,Facilities support services,2016,396,7426,78604,341554
+0400000US36,36,New York,5613,Employment services,2016,2925,270512,4647460,17535917
+0400000US36,36,New York,5614,Business support services,2016,2258,45847,631022,2261431
+0400000US36,36,New York,5615,Travel arrangement and reservation services,2016,2343,16525,325255,1164700
+0400000US36,36,New York,5616,Investigation and security services,2016,2064,84851,606512,2622925
+0400000US36,36,New York,5617,Services to buildings and dwellings,2016,12112,101726,727016,3740535
+0400000US36,36,New York,5619,Other support services,2016,1250,12696,156962,663734
+0400000US36,36,New York,5621,Waste collection,2016,668,10464,130428,567754
+0400000US36,36,New York,5622,Waste treatment and disposal,2016,93,1793,28070,115202
+0400000US36,36,New York,5629,Remediation and other waste management services,2016,754,9757,117231,570099
+0400000US36,36,New York,6111,Elementary and secondary schools,2016,1741,98074,1010634,4230284
+0400000US36,36,New York,6112,Junior colleges,2016,62,8590,61065,256899
+0400000US36,36,New York,6113,"Colleges, universities, and professional schools",2016,300,250346,2768189,11691744
+0400000US36,36,New York,6114,Business schools and computer and management training,2016,513,9370,93480,361845
+0400000US36,36,New York,6115,Technical and trade schools,2016,385,5896,48422,207783
+0400000US36,36,New York,6116,Other schools and instruction,2016,4523,40492,202503,906193
+0400000US36,36,New York,6117,Educational support services,2016,748,10602,154109,629745
+0400000US36,36,New York,6211,Offices of physicians,2016,15662,143515,2453299,11443505
+0400000US36,36,New York,6212,Offices of dentists,2016,8978,54718,564844,2530063
+0400000US36,36,New York,6213,Offices of other health practitioners,2016,9704,48867,403565,1790936
+0400000US36,36,New York,6214,Outpatient care centers,2016,1847,66786,695964,3009536
+0400000US36,36,New York,6215,Medical and diagnostic laboratories,2016,1226,17457,276556,1236096
+0400000US36,36,New York,6216,Home health care services,2016,1181,211834,1190777,5361890
+0400000US36,36,New York,6219,Other ambulatory health care services,2016,565,17672,163742,717366
+0400000US36,36,New York,6221,General medical and surgical hospitals,2016,240,390462,6989385,29085948
+0400000US36,36,New York,6222,Psychiatric and substance abuse hospitals,2016,44,23209,350493,1472812
+0400000US36,36,New York,6223,Specialty (except psychiatric and substance abuse) hospitals,2016,20,28694,676742,2838184
+0400000US36,36,New York,6231,Nursing care facilities (skilled nursing facilities),2016,713,126639,1157448,4868997
+0400000US36,36,New York,6232,"Residential intellectual and developmental disability, mental health, and substance abuse facilities",2016,4001,77781,546127,2346966
+0400000US36,36,New York,6233,Continuing care retirement communities and assisted living facilities for the elderly,2016,659,33293,202659,865710
+0400000US36,36,New York,6239,Other residential care facilities,2016,298,14202,118860,515503
+0400000US36,36,New York,6241,Individual and family services,2016,4757,169985,1080204,4677837
+0400000US36,36,New York,6242,"Community food and housing, and emergency and other relief services",2016,1256,22743,193599,832320
+0400000US36,36,New York,6243,Vocational rehabilitation services,2016,492,21178,115043,504964
+0400000US36,36,New York,6244,Child day care services,2016,5976,75370,421484,1770333
+0400000US36,36,New York,7111,Performing arts companies,2016,1420,23161,270890,1110639
+0400000US36,36,New York,7112,Spectator sports,2016,259,11278,411803,1847895
+0400000US36,36,New York,7113,"Promoters of performing arts, sports, and similar events",2016,814,25566,255311,1154294
+0400000US36,36,New York,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",2016,865,5105,118232,568034
+0400000US36,36,New York,7115,"Independent artists, writers, and performers",2016,3443,6033,134780,1228916
+0400000US36,36,New York,7121,"Museums, historical sites, and similar institutions",2016,645,18938,203212,864326
+0400000US36,36,New York,7131,Amusement parks and arcades,2016,186,2379,9461,60610
+0400000US36,36,New York,7132,Gambling industries,2016,114,3062,36346,141584
+0400000US36,36,New York,7139,Other amusement and recreation industries,2016,4938,88963,417556,2041390
+0400000US36,36,New York,7211,Traveler accommodation,2016,2512,99989,942858,4186260
+0400000US36,36,New York,7212,RV (recreational vehicle) parks and recreational camps,2016,411,2316,14253,105800
+0400000US36,36,New York,7213,Rooming and boarding houses,2016,141,1211,7902,32434
+0400000US36,36,New York,7223,Special food services,2016,3599,75068,378861,1715400
+0400000US36,36,New York,7224,Drinking places (alcoholic beverages),2016,3367,28481,147416,649915
+0400000US36,36,New York,7225,Restaurants and other eating places,2016,43169,579358,2824016,12635082
+0400000US36,36,New York,8111,Automotive repair and maintenance,2016,9578,45435,358932,1530271
+0400000US36,36,New York,8112,Electronic and precision equipment repair and maintenance,2016,719,4621,56970,246163
+0400000US36,36,New York,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,2016,809,4876,63212,266345
+0400000US36,36,New York,8114,Personal and household goods repair and maintenance,2016,1516,4628,37857,163202
+0400000US36,36,New York,8121,Personal care services,2016,14411,68129,311534,1364613
+0400000US36,36,New York,8122,Death care services,2016,1519,8144,87975,384497
+0400000US36,36,New York,8123,Drycleaning and laundry services,2016,5121,23757,138766,602037
+0400000US36,36,New York,8129,Other personal services,2016,3852,25145,151241,708831
+0400000US36,36,New York,8131,Religious organizations,2016,8446,80209,492962,2048829
+0400000US36,36,New York,8132,Grantmaking and giving services,2016,1987,32299,490693,2016640
+0400000US36,36,New York,8133,Social advocacy organizations,2016,1449,22254,248362,1048932
+0400000US36,36,New York,8134,Civic and social organizations,2016,1433,16992,114171,493021
+0400000US36,36,New York,8139,"Business, professional, labor, political, and similar organizations",2016,7400,58755,917420,3688720
+0400000US48,48,Texas,1131,Timber tract operations,2016,15,51,567,2397
+0400000US48,48,Texas,1132,Forest nurseries and gathering of forest products,2016,1,a,D,D
+0400000US48,48,Texas,1133,Logging,2016,197,1188,12534,53518
+0400000US48,48,Texas,1141,Fishing,2016,81,139,907,3899
+0400000US48,48,Texas,1142,Hunting and trapping,2016,54,156,1562,6323
+0400000US48,48,Texas,1151,Support activities for crop production,2016,380,4002,38346,160940
+0400000US48,48,Texas,1152,Support activities for animal production,2016,301,1433,14333,60801
+0400000US48,48,Texas,1153,Support activities for forestry,2016,45,158,1499,6494
+0400000US48,48,Texas,2111,Oil and gas extraction,2016,2942,53781,2350371,7608381
+0400000US48,48,Texas,2121,Coal mining,2016,22,2146,55331,192256
+0400000US48,48,Texas,2122,Metal ore mining,2016,9,49,706,2731
+0400000US48,48,Texas,2123,Nonmetallic mineral mining and quarrying,2016,366,6682,88996,355720
+0400000US48,48,Texas,2131,Support activities for mining,2016,4908,136549,3174101,11264448
+0400000US48,48,Texas,2211,"Electric power generation, transmission and distribution",2016,986,39633,1303348,4115856
+0400000US48,48,Texas,2212,Natural gas distribution,2016,281,11102,301795,1075049
+0400000US48,48,Texas,2213,"Water, sewage and other systems",2016,712,4769,56765,233734
+0400000US48,48,Texas,2361,Residential building construction,2016,7875,42808,725992,3025084
+0400000US48,48,Texas,2362,Nonresidential building construction,2016,3532,62216,988893,4366673
+0400000US48,48,Texas,2371,Utility system construction,2016,2272,115716,1927704,7997447
+0400000US48,48,Texas,2372,Land subdivision,2016,599,4478,93154,329371
+0400000US48,48,Texas,2373,"Highway, street, and bridge construction",2016,722,33344,402184,1790151
+0400000US48,48,Texas,2379,Other heavy and civil engineering construction,2016,322,25231,389546,1600510
+0400000US48,48,Texas,2381,"Foundation, structure, and building exterior contractors",2016,5818,78654,846504,3763350
+0400000US48,48,Texas,2382,Building equipment contractors,2016,12616,173258,2191486,9668816
+0400000US48,48,Texas,2383,Building finishing contractors,2016,4866,68564,684961,3070864
+0400000US48,48,Texas,2389,Other specialty trade contractors,2016,4541,69881,784003,3464235
+0400000US48,48,Texas,3111,Animal food manufacturing,2016,122,2998,34417,138226
+0400000US48,48,Texas,3112,Grain and oilseed milling,2016,41,2409,24755,108928
+0400000US48,48,Texas,3113,Sugar and confectionery product manufacturing,2016,83,3253,30684,134774
+0400000US48,48,Texas,3114,Fruit and vegetable preserving and specialty food manufacturing,2016,116,8440,72061,307514
+0400000US48,48,Texas,3115,Dairy product manufacturing,2016,72,6812,81461,341883
+0400000US48,48,Texas,3116,Animal slaughtering and processing,2016,272,37185,308878,1334316
+0400000US48,48,Texas,3117,Seafood product preparation and packaging,2016,34,975,6323,27765
+0400000US48,48,Texas,3118,Bakeries and tortilla manufacturing,2016,846,20026,158346,670592
+0400000US48,48,Texas,3119,Other food manufacturing,2016,253,9730,99155,488069
+0400000US48,48,Texas,3121,Beverage manufacturing,2016,413,11018,140100,594620
+0400000US48,48,Texas,3122,Tobacco manufacturing,2016,5,189,1865,5430
+0400000US48,48,Texas,3131,"Fiber, yarn, and thread mills",2016,9,122,697,2904
+0400000US48,48,Texas,3132,Fabric mills,2016,35,2434,21968,91270
+0400000US48,48,Texas,3133,Textile and fabric finishing and fabric coating mills,2016,45,611,6035,26287
+0400000US48,48,Texas,3141,Textile furnishings mills,2016,116,1856,13378,60079
+0400000US48,48,Texas,3149,Other textile product mills,2016,326,3896,30970,129210
+0400000US48,48,Texas,3151,Apparel knitting mills,2016,9,33,150,703
+0400000US48,48,Texas,3152,Cut and sew apparel manufacturing,2016,175,2361,12438,58345
+0400000US48,48,Texas,3159,Apparel accessories and other apparel manufacturing,2016,28,792,5063,23055
+0400000US48,48,Texas,3161,Leather and hide tanning and finishing,2016,14,211,2013,8402
+0400000US48,48,Texas,3162,Footwear manufacturing,2016,34,2553,15439,71630
+0400000US48,48,Texas,3169,Other leather and allied product manufacturing,2016,89,1047,6760,29191
+0400000US48,48,Texas,3211,Sawmills and wood preservation,2016,109,3198,33527,142935
+0400000US48,48,Texas,3212,"Veneer, plywood, and engineered wood product manufacturing",2016,69,4124,47415,197851
+0400000US48,48,Texas,3219,Other wood product manufacturing,2016,559,16848,132812,598564
+0400000US48,48,Texas,3221,"Pulp, paper, and paperboard mills",2016,12,3041,57181,247402
+0400000US48,48,Texas,3222,Converted paper product manufacturing,2016,214,12441,156541,663320
+0400000US48,48,Texas,3231,Printing and related support activities,2016,1721,23341,237173,988743
+0400000US48,48,Texas,3241,Petroleum and coal products manufacturing,2016,204,23647,804611,2736540
+0400000US48,48,Texas,3251,Basic chemical manufacturing,2016,312,27663,850422,3099509
+0400000US48,48,Texas,3252,"Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing",2016,133,15188,475430,1722775
+0400000US48,48,Texas,3253,"Pesticide, fertilizer, and other agricultural chemical manufacturing",2016,67,1774,32576,123517
+0400000US48,48,Texas,3254,Pharmaceutical and medicine manufacturing,2016,116,7364,105817,462167
+0400000US48,48,Texas,3255,"Paint, coating, and adhesive manufacturing",2016,130,4932,80115,320244
+0400000US48,48,Texas,3256,"Soap, cleaning compound, and toilet preparation manufacturing",2016,150,5301,80760,344911
+0400000US48,48,Texas,3259,Other chemical product and preparation manufacturing,2016,211,5656,98192,378507
+0400000US48,48,Texas,3261,Plastics product manufacturing,2016,654,38367,410862,1777485
+0400000US48,48,Texas,3262,Rubber product manufacturing,2016,110,2554,29448,111968
+0400000US48,48,Texas,3271,Clay product and refractory manufacturing,2016,58,3301,38657,144947
+0400000US48,48,Texas,3272,Glass and glass product manufacturing,2016,93,3636,48591,191133
+0400000US48,48,Texas,3273,Cement and concrete product manufacturing,2016,726,17469,206487,916140
+0400000US48,48,Texas,3274,Lime and gypsum product manufacturing,2016,37,1538,23771,93751
+0400000US48,48,Texas,3279,Other nonmetallic mineral product manufacturing,2016,283,7511,95460,375198
+0400000US48,48,Texas,3311,Iron and steel mills and ferroalloy manufacturing,2016,47,4205,71923,278090
+0400000US48,48,Texas,3312,Steel product manufacturing from purchased steel,2016,46,3641,44959,161288
+0400000US48,48,Texas,3313,Alumina and aluminum production and processing,2016,31,2907,42910,148821
+0400000US48,48,Texas,3314,Nonferrous metal (except aluminum) production and processing,2016,68,4623,64348,254009
+0400000US48,48,Texas,3315,Foundries,2016,96,5437,60836,245715
+0400000US48,48,Texas,3321,Forging and stamping,2016,143,7339,100628,393555
+0400000US48,48,Texas,3322,Cutlery and handtool manufacturing,2016,44,1075,12730,53832
+0400000US48,48,Texas,3323,Architectural and structural metals manufacturing,2016,1100,38120,431775,1850107
+0400000US48,48,Texas,3324,"Boiler, tank, and shipping container manufacturing",2016,195,8656,127790,521692
+0400000US48,48,Texas,3325,Hardware manufacturing,2016,28,923,9350,40304
+0400000US48,48,Texas,3326,Spring and wire product manufacturing,2016,88,2598,28323,118326
+0400000US48,48,Texas,3327,"Machine shops; turned product; and screw, nut, and bolt manufacturing",2016,1735,22332,274255,1095703
+0400000US48,48,Texas,3328,"Coating, engraving, heat treating, and allied activities",2016,413,9356,103040,423866
+0400000US48,48,Texas,3329,Other fabricated metal product manufacturing,2016,603,26085,391577,1557802
+0400000US48,48,Texas,3331,"Agriculture, construction, and mining machinery manufacturing",2016,490,30609,530458,1935329
+0400000US48,48,Texas,3332,Industrial machinery manufacturing,2016,144,4257,88028,365206
+0400000US48,48,Texas,3333,Commercial and service industry machinery manufacturing,2016,122,3709,62389,238903
+0400000US48,48,Texas,3334,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",2016,143,11602,132178,555739
+0400000US48,48,Texas,3335,Metalworking machinery manufacturing,2016,220,2876,35736,148218
+0400000US48,48,Texas,3336,"Engine, turbine, and power transmission equipment manufacturing",2016,61,5208,88577,354771
+0400000US48,48,Texas,3339,Other general purpose machinery manufacturing,2016,392,20515,353728,1358040
+0400000US48,48,Texas,3341,Computer and peripheral equipment manufacturing,2016,72,3993,57425,237392
+0400000US48,48,Texas,3342,Communications equipment manufacturing,2016,94,5683,137605,528903
+0400000US48,48,Texas,3343,Audio and video equipment manufacturing,2016,29,195,2157,9787
+0400000US48,48,Texas,3344,Semiconductor and other electronic component manufacturing,2016,259,25217,879802,2569904
+0400000US48,48,Texas,3345,"Navigational, measuring, electromedical, and control instruments manufacturing",2016,362,27118,608945,2386951
+0400000US48,48,Texas,3346,Manufacturing and reproducing magnetic and optical media,2016,14,343,4650,20818
+0400000US48,48,Texas,3351,Electric lighting equipment manufacturing,2016,57,1821,22681,88778
+0400000US48,48,Texas,3352,Household appliance manufacturing,2016,27,1292,8774,38806
+0400000US48,48,Texas,3353,Electrical equipment manufacturing,2016,147,8249,134753,520203
+0400000US48,48,Texas,3359,Other electrical equipment and component manufacturing,2016,120,4876,66183,270328
+0400000US48,48,Texas,3361,Motor vehicle manufacturing,2016,14,8033,223894,764585
+0400000US48,48,Texas,3362,Motor vehicle body and trailer manufacturing,2016,159,8191,78746,343160
+0400000US48,48,Texas,3363,Motor vehicle parts manufacturing,2016,243,14507,173081,737433
+0400000US48,48,Texas,3364,Aerospace product and parts manufacturing,2016,128,35173,891245,3443493
+0400000US48,48,Texas,3365,Railroad rolling stock manufacturing,2016,14,3837,36657,140606
+0400000US48,48,Texas,3366,Ship and boat building,2016,81,5098,69512,270717
+0400000US48,48,Texas,3369,Other transportation equipment manufacturing,2016,39,578,7121,28801
+0400000US48,48,Texas,3371,Household and institutional furniture and kitchen cabinet manufacturing,2016,559,12329,112407,484142
+0400000US48,48,Texas,3372,Office furniture (including fixtures) manufacturing,2016,200,6295,59546,294820
+0400000US48,48,Texas,3379,Other furniture related product manufacturing,2016,55,3053,22229,104675
+0400000US48,48,Texas,3391,Medical equipment and supplies manufacturing,2016,574,12763,173442,651115
+0400000US48,48,Texas,3399,Other miscellaneous manufacturing,2016,1088,16359,171642,738165
+0400000US48,48,Texas,4231,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,2016,1873,30949,418119,1701903
+0400000US48,48,Texas,4232,Furniture and home furnishing merchant wholesalers,2016,899,11965,167698,717783
+0400000US48,48,Texas,4233,Lumber and other construction materials merchant wholesalers,2016,1591,24886,332757,1423700
+0400000US48,48,Texas,4234,Professional and commercial equipment and supplies merchant wholesalers,2016,2561,40638,828787,3443818
+0400000US48,48,Texas,4235,Metal and mineral (except petroleum) merchant wholesalers,2016,1167,18452,283518,1165048
+0400000US48,48,Texas,4236,Household appliances and electrical and electronic goods merchant wholesalers,2016,2585,54425,1259527,5176570
+0400000US48,48,Texas,4237,"Hardware, plumbing and heating equipment and supplies merchant wholesalers",2016,1613,20123,308607,1275008
+0400000US48,48,Texas,4238,"Machinery, equipment, and supplies merchant wholesalers",2016,6365,93721,1686719,6386512
+0400000US48,48,Texas,4239,Miscellaneous durable goods merchant wholesalers,2016,2318,23514,283241,1201373
+0400000US48,48,Texas,4241,Paper and paper product merchant wholesalers,2016,632,8025,113188,454888
+0400000US48,48,Texas,4242,Drugs and druggists' sundries merchant wholesalers,2016,620,16832,418801,1626132
+0400000US48,48,Texas,4243,"Apparel, piece goods, and notions merchant wholesalers",2016,741,8019,77986,334973
+0400000US48,48,Texas,4244,Grocery and related product merchant wholesalers,2016,2351,60063,764865,3090054
+0400000US48,48,Texas,4245,Farm product raw material merchant wholesalers,2016,366,3635,37635,168699
+0400000US48,48,Texas,4246,Chemical and allied products merchant wholesalers,2016,1374,20767,443493,1766754
+0400000US48,48,Texas,4247,Petroleum and petroleum products merchant wholesalers,2016,802,18075,661736,1917802
+0400000US48,48,Texas,4248,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",2016,275,19249,297439,1151394
+0400000US48,48,Texas,4249,Miscellaneous nondurable goods merchant wholesalers,2016,2005,20037,223666,919791
+0400000US48,48,Texas,4251,Wholesale electronic markets and agents and brokers,2016,3329,27133,378491,1541783
+0400000US48,48,Texas,4411,Automobile dealers,2016,3973,118996,1584325,6621134
+0400000US48,48,Texas,4412,Other motor vehicle dealers,2016,942,11359,113775,521452
+0400000US48,48,Texas,4413,"Automotive parts, accessories, and tire stores",2016,5064,48095,335181,1404490
+0400000US48,48,Texas,4421,Furniture stores,2016,1936,19796,181833,744956
+0400000US48,48,Texas,4422,Home furnishings stores,2016,1871,19303,115665,508047
+0400000US48,48,Texas,4431,Electronics and appliance stores,2016,3385,34136,212182,853956
+0400000US48,48,Texas,4441,Building material and supplies dealers,2016,3931,92964,622398,2755010
+0400000US48,48,Texas,4442,Lawn and garden equipment and supplies stores,2016,1307,12424,82258,352250
+0400000US48,48,Texas,4451,Grocery stores,2016,6420,224020,1226879,5190497
+0400000US48,48,Texas,4452,Specialty food stores,2016,1253,11279,61664,248695
+0400000US48,48,Texas,4453,"Beer, wine, and liquor stores",2016,1920,9381,49065,208184
+0400000US48,48,Texas,4461,Health and personal care stores,2016,7172,74303,558217,2337304
+0400000US48,48,Texas,4471,Gasoline stations,2016,10599,83940,430192,1865791
+0400000US48,48,Texas,4481,Clothing stores,2016,8139,123145,442439,1885983
+0400000US48,48,Texas,4482,Shoe stores,2016,2089,20583,79861,338463
+0400000US48,48,Texas,4483,"Jewelry, luggage, and leather goods stores",2016,1548,10397,88179,330329
+0400000US48,48,Texas,4511,"Sporting goods, hobby, and musical instrument stores",2016,2340,41206,176200,765431
+0400000US48,48,Texas,4512,Book stores and news dealers,2016,487,6488,24759,151740
+0400000US48,48,Texas,4521,Department stores,2016,518,57780,293985,1224845
+0400000US48,48,Texas,4529,Other general merchandise stores,2016,4163,195299,1166365,4904449
+0400000US48,48,Texas,4531,Florists,2016,875,4000,19419,79894
+0400000US48,48,Texas,4532,"Office supplies, stationery, and gift stores",2016,2078,15805,70927,297907
+0400000US48,48,Texas,4533,Used merchandise stores,2016,1372,16194,70211,297268
+0400000US48,48,Texas,4539,Other miscellaneous store retailers,2016,3214,21287,126741,562557
+0400000US48,48,Texas,4541,Electronic shopping and mail-order houses,2016,2138,20970,239029,970246
+0400000US48,48,Texas,4542,Vending machine operators,2016,312,2291,18470,77123
+0400000US48,48,Texas,4543,Direct selling establishments,2016,1606,9026,85720,353546
+0400000US48,48,Texas,4811,Scheduled air transportation,2016,171,59354,1330700,5011598
+0400000US48,48,Texas,4812,Nonscheduled air transportation,2016,207,2888,64391,257060
+0400000US48,48,Texas,4831,"Deep sea, coastal, and great lakes water transportation",2016,93,2742,67406,248724
+0400000US48,48,Texas,4832,Inland water transportation,2016,34,2071,52371,191849
+0400000US48,48,Texas,4841,General freight trucking,2016,5903,86039,977262,4140388
+0400000US48,48,Texas,4842,Specialized freight trucking,2016,3894,51561,621211,2558393
+0400000US48,48,Texas,4851,Urban transit systems,2016,54,4640,42647,178454
+0400000US48,48,Texas,4852,Interurban and rural bus transportation,2016,70,1528,10219,43022
+0400000US48,48,Texas,4853,Taxi and limousine service,2016,294,3406,31332,117543
+0400000US48,48,Texas,4854,School and employee bus transportation,2016,80,9049,41061,204527
+0400000US48,48,Texas,4855,Charter bus industry,2016,64,2050,11633,51472
+0400000US48,48,Texas,4859,Other transit and ground passenger transportation,2016,208,3117,17355,77387
+0400000US48,48,Texas,4861,Pipeline transportation of crude oil,2016,237,5124,162944,534904
+0400000US48,48,Texas,4862,Pipeline transportation of natural gas,2016,530,11525,464384,1527788
+0400000US48,48,Texas,4869,Other pipeline transportation,2016,132,2161,94217,289379
+0400000US48,48,Texas,4871,"Scenic and sightseeing transportation, land",2016,32,227,966,4675
+0400000US48,48,Texas,4872,"Scenic and sightseeing transportation, water",2016,60,407,1795,9389
+0400000US48,48,Texas,4879,"Scenic and sightseeing transportation, other",2016,7,19,102,461
+0400000US48,48,Texas,4881,Support activities for air transportation,2016,655,20760,245911,1071711
+0400000US48,48,Texas,4882,Support activities for rail transportation,2016,168,6701,78013,310120
+0400000US48,48,Texas,4883,Support activities for water transportation,2016,258,9488,119455,485120
+0400000US48,48,Texas,4884,Support activities for road transportation,2016,948,8834,79495,337983
+0400000US48,48,Texas,4885,Freight transportation arrangement,2016,2449,30639,385042,1571804
+0400000US48,48,Texas,4889,Other support activities for transportation,2016,163,2206,18378,77168
+0400000US48,48,Texas,4921,Couriers and express delivery services,2016,734,43036,412715,1713647
+0400000US48,48,Texas,4922,Local messengers and local delivery,2016,357,3070,21722,99976
+0400000US48,48,Texas,4931,Warehousing and storage,2016,1426,72786,758654,3192647
+0400000US48,48,Texas,5111,"Newspaper, periodical, book, and directory publishers",2016,1061,16235,200449,826657
+0400000US48,48,Texas,5112,Software publishers,2016,638,34628,1060705,4260677
+0400000US48,48,Texas,5121,Motion picture and video industries,2016,919,20638,92542,424763
+0400000US48,48,Texas,5122,Sound recording industries,2016,155,877,6519,24654
+0400000US48,48,Texas,5151,Radio and television broadcasting,2016,556,13209,195487,811738
+0400000US48,48,Texas,5152,Cable and other subscription programming,2016,17,500,11082,41682
+0400000US48,48,Texas,5171,Wired telecommunications carriers,2016,2894,73220,1791564,5839258
+0400000US48,48,Texas,5172,Wireless telecommunications carriers (except satellite),2016,1246,19554,364552,1274534
+0400000US48,48,Texas,5174,Satellite telecommunications,2016,40,841,20436,91637
+0400000US48,48,Texas,5179,Other telecommunications,2016,524,5863,124211,423353
+0400000US48,48,Texas,5182,"Data processing, hosting, and related services",2016,944,46727,1112135,4389354
+0400000US48,48,Texas,5191,Other information services,2016,683,9280,228413,846633
+0400000US48,48,Texas,5211,Monetary authorities - central bank,2016,6,g,D,D
+0400000US48,48,Texas,5221,Depository credit intermediation,2016,8371,157686,2900389,9970750
+0400000US48,48,Texas,5222,Nondepository credit intermediation,2016,5907,73782,1576304,5954416
+0400000US48,48,Texas,5223,Activities related to credit intermediation,2016,3011,35664,508880,1958938
+0400000US48,48,Texas,5231,Securities and commodity contracts intermediation and brokerage,2016,3494,23862,1350477,4113996
+0400000US48,48,Texas,5232,Securities and commodity exchanges,2016,1,a,D,D
+0400000US48,48,Texas,5239,Other financial investment activities,2016,4888,40240,1606969,5326418
+0400000US48,48,Texas,5241,Insurance carriers,2016,2825,123349,2828430,9683332
+0400000US48,48,Texas,5242,"Agencies, brokerages, and other insurance related activities",2016,12044,78795,1288234,4961513
+0400000US48,48,Texas,5259,Other investment pools and funds,2016,102,745,39928,214702
+0400000US48,48,Texas,5311,Lessors of real estate,2016,10441,49594,685266,2372331
+0400000US48,48,Texas,5312,Offices of real estate agents and brokers,2016,6958,23122,483236,1761932
+0400000US48,48,Texas,5313,Activities related to real estate,2016,7173,55683,734398,3017255
+0400000US48,48,Texas,5321,Automotive equipment rental and leasing,2016,1516,13743,146335,588776
+0400000US48,48,Texas,5322,Consumer goods rental,2016,1754,12937,103881,428407
+0400000US48,48,Texas,5323,General rental centers,2016,210,2272,22783,90633
+0400000US48,48,Texas,5324,Commercial and industrial machinery and equipment rental and leasing,2016,1998,30824,494086,1992517
+0400000US48,48,Texas,5331,Lessors of nonfinancial intangible assets (except copyrighted works),2016,308,3298,86907,323509
+0400000US48,48,Texas,5411,Legal services,2016,14340,83087,1585226,7588166
+0400000US48,48,Texas,5412,"Accounting, tax preparation, bookkeeping, and payroll services",2016,10397,92850,1223788,5268922
+0400000US48,48,Texas,5413,"Architectural, engineering, and related services",2016,9211,153126,3320052,13836806
+0400000US48,48,Texas,5414,Specialized design services,2016,1798,6816,80561,350768
+0400000US48,48,Texas,5415,Computer systems design and related services,2016,11418,151460,3649593,14442682
+0400000US48,48,Texas,5416,"Management, scientific, and technical consulting services",2016,13309,117183,2079518,8807135
+0400000US48,48,Texas,5417,Scientific research and development services,2016,1058,30752,966583,3594178
+0400000US48,48,Texas,5418,"Advertising, public relations, and related services",2016,2409,25961,372234,1538505
+0400000US48,48,Texas,5419,"Other professional, scientific, and technical services",2016,4811,47096,507124,2179615
+0400000US48,48,Texas,5511,Management of companies and enterprises,2016,4939,325375,13049046,40188851
+0400000US48,48,Texas,5611,Office administrative services,2016,3946,52113,773620,3238799
+0400000US48,48,Texas,5612,Facilities support services,2016,537,24148,260025,1059313
+0400000US48,48,Texas,5613,Employment services,2016,4588,511785,4676465,20198254
+0400000US48,48,Texas,5614,Business support services,2016,2426,87271,664416,2750524
+0400000US48,48,Texas,5615,Travel arrangement and reservation services,2016,1202,19502,346702,1239323
+0400000US48,48,Texas,5616,Investigation and security services,2016,2118,81288,539886,2296703
+0400000US48,48,Texas,5617,Services to buildings and dwellings,2016,10496,154109,872668,4047331
+0400000US48,48,Texas,5619,Other support services,2016,1089,17766,209667,896448
+0400000US48,48,Texas,5621,Waste collection,2016,724,14969,207668,887117
+0400000US48,48,Texas,5622,Waste treatment and disposal,2016,243,4122,64615,260826
+0400000US48,48,Texas,5629,Remediation and other waste management services,2016,796,12675,159144,668063
+0400000US48,48,Texas,6111,Elementary and secondary schools,2016,1445,73094,619209,2637641
+0400000US48,48,Texas,6112,Junior colleges,2016,50,2040,16802,65248
+0400000US48,48,Texas,6113,"Colleges, universities, and professional schools",2016,221,68044,702714,3068463
+0400000US48,48,Texas,6114,Business schools and computer and management training,2016,550,4818,78075,314927
+0400000US48,48,Texas,6115,Technical and trade schools,2016,642,8544,88229,368357
+0400000US48,48,Texas,6116,Other schools and instruction,2016,3593,29522,121386,532599
+0400000US48,48,Texas,6117,Educational support services,2016,589,7712,92591,408712
+0400000US48,48,Texas,6211,Offices of physicians,2016,21617,209363,3681856,16412553
+0400000US48,48,Texas,6212,Offices of dentists,2016,10561,70412,786131,3421095
+0400000US48,48,Texas,6213,Offices of other health practitioners,2016,9838,68065,637572,2735515
+0400000US48,48,Texas,6214,Outpatient care centers,2016,3145,61623,774764,3381635
+0400000US48,48,Texas,6215,Medical and diagnostic laboratories,2016,1508,25330,352703,1554171
+0400000US48,48,Texas,6216,Home health care services,2016,4204,230082,1064199,4506480
+0400000US48,48,Texas,6219,Other ambulatory health care services,2016,1067,23973,239452,1050912
+0400000US48,48,Texas,6221,General medical and surgical hospitals,2016,463,336632,4548816,19498790
+0400000US48,48,Texas,6222,Psychiatric and substance abuse hospitals,2016,51,15062,133070,572707
+0400000US48,48,Texas,6223,Specialty (except psychiatric and substance abuse) hospitals,2016,165,49279,773644,3331932
+0400000US48,48,Texas,6231,Nursing care facilities (skilled nursing facilities),2016,1438,108674,745632,3036508
+0400000US48,48,Texas,6232,"Residential intellectual and developmental disability, mental health, and substance abuse facilities",2016,1587,26974,152378,655449
+0400000US48,48,Texas,6233,Continuing care retirement communities and assisted living facilities for the elderly,2016,1284,54129,338222,1413549
+0400000US48,48,Texas,6239,Other residential care facilities,2016,231,7453,54948,234267
+0400000US48,48,Texas,6241,Individual and family services,2016,4436,119346,513579,2210048
+0400000US48,48,Texas,6242,"Community food and housing, and emergency and other relief services",2016,855,14077,102204,443278
+0400000US48,48,Texas,6243,Vocational rehabilitation services,2016,340,10911,62135,257707
+0400000US48,48,Texas,6244,Child day care services,2016,5399,78163,337346,1446993
+0400000US48,48,Texas,7111,Performing arts companies,2016,442,6718,47936,207841
+0400000US48,48,Texas,7112,Spectator sports,2016,197,6689,211090,1356249
+0400000US48,48,Texas,7113,"Promoters of performing arts, sports, and similar events",2016,465,11689,73573,308477
+0400000US48,48,Texas,7114,"Agents and managers for artists, athletes, entertainers, and other public figures",2016,143,511,5662,31023
+0400000US48,48,Texas,7115,"Independent artists, writers, and performers",2016,718,1845,19843,108719
+0400000US48,48,Texas,7121,"Museums, historical sites, and similar institutions",2016,444,9568,67422,301141
+0400000US48,48,Texas,7131,Amusement parks and arcades,2016,379,15841,48500,234549
+0400000US48,48,Texas,7132,Gambling industries,2016,176,2160,13939,55646
+0400000US48,48,Texas,7139,Other amusement and recreation industries,2016,4344,89577,373620,1650559
+0400000US48,48,Texas,7211,Traveler accommodation,2016,5067,119061,656116,2776172
+0400000US48,48,Texas,7212,RV (recreational vehicle) parks and recreational camps,2016,494,3651,17989,88431
+0400000US48,48,Texas,7213,Rooming and boarding houses,2016,115,581,3828,15753
+0400000US48,48,Texas,7223,Special food services,2016,2890,56276,302708,1306201
+0400000US48,48,Texas,7224,Drinking places (alcoholic beverages),2016,2681,35400,142080,588877
+0400000US48,48,Texas,7225,Restaurants and other eating places,2016,42941,962429,3776188,15874553
+0400000US48,48,Texas,8111,Automotive repair and maintenance,2016,11486,79162,641894,2776150
+0400000US48,48,Texas,8112,Electronic and precision equipment repair and maintenance,2016,999,9943,130674,534594
+0400000US48,48,Texas,8113,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,2016,2015,33065,537640,2259491
+0400000US48,48,Texas,8114,Personal and household goods repair and maintenance,2016,1330,5554,41332,178363
+0400000US48,48,Texas,8121,Personal care services,2016,7212,43157,241044,1029973
+0400000US48,48,Texas,8122,Death care services,2016,1282,11182,90264,369281
+0400000US48,48,Texas,8123,Drycleaning and laundry services,2016,2856,27944,162956,666731
+0400000US48,48,Texas,8129,Other personal services,2016,3080,23384,127763,550265
+0400000US48,48,Texas,8131,Religious organizations,2016,14480,162514,830028,3401924
+0400000US48,48,Texas,8132,Grantmaking and giving services,2016,1279,10051,134079,560798
+0400000US48,48,Texas,8133,Social advocacy organizations,2016,809,6105,55430,235984
+0400000US48,48,Texas,8134,Civic and social organizations,2016,1489,13482,81182,347653
+0400000US48,48,Texas,8139,"Business, professional, labor, political, and similar organizations",2016,3035,20304,233104,976541
